@@ -1,0 +1,503 @@
+Mentee_ID,Sign_Up_Date,Nationality,Age,Industry,Experience_Level,Goal_Type,Referral_Source,Corporate_Sponsored,Months_Subscribed,Sessions_Per_Month,Mentor_Rating,Session_Completion_Rate_Pct,Churned,NPS_Score,Career_Outcome_Achieved,Subscription_Plan,Monthly_Revenue_AED,Total_Revenue_AED,Revenue_Tier,Engagement_Score
+MM0001,2023-04-25,Filipino,30,Technology,Entry (0-2 yrs),Get Promoted,LinkedIn,Yes,8,3,4.0,60.7,No,46,No,Corporate (AED 399/mo),399,3192,High (AED 3-6K),70.3
+MM0002,2023-01-26,Bangladeshi,36,Operations,Mid (3-5 yrs),Network Building,Instagram,No,5,4,3.4,55.0,Yes,34,No,Individual (AED 199/mo),199,995,Low (<AED 1K),75.6
+MM0003,2023-10-09,Jordanian,32,Human Resources,Entry (0-2 yrs),Get Promoted,University Career Fair,No,3,2,3.2,63.1,No,46,No,Individual (AED 199/mo),199,597,Low (<AED 1K),58.0
+MM0004,2023-09-08,Egyptian,26,Consulting,Senior (6-10 yrs),Get Promoted,Word of Mouth,No,9,2,3.4,43.8,Yes,33,No,Individual (AED 199/mo),199,1791,Mid (AED 1-3K),51.1
+MM0005,2023-08-17,Indian,25,Operations,Mid (3-5 yrs),Get Promoted,Instagram,No,4,1,3.5,36.6,No,18,No,Individual (AED 199/mo),199,796,Low (<AED 1K),38.6
+MM0006,2023-05-23,Indian,30,Operations,Mid (3-5 yrs),Network Building,Instagram,No,1,4,4.1,75.9,Yes,58,No,Individual (AED 199/mo),199,199,Low (<AED 1K),86.8
+MM0007,2023-04-15,Indian,23,Consulting,Entry (0-2 yrs),Get Promoted,LinkedIn,No,5,1,5.0,57.0,No,28,Yes,Individual (AED 199/mo),199,995,Low (<AED 1K),52.8
+MM0008,2024-07-12,South African,36,Human Resources,Entry (0-2 yrs),Career Switch,Instagram,Yes,11,1,3.3,35.1,No,37,No,Corporate (AED 399/mo),399,4389,High (AED 3-6K),37.2
+MM0009,2023-03-31,Egyptian,33,Consulting,Entry (0-2 yrs),Skill Building,Instagram,No,3,1,3.5,32.6,No,44,No,Individual (AED 199/mo),199,597,Low (<AED 1K),37.0
+MM0010,2024-08-27,Jordanian,27,Consulting,Mid (3-5 yrs),Network Building,LinkedIn,No,2,2,3.8,50.8,No,33,No,Individual (AED 199/mo),199,398,Low (<AED 1K),55.5
+MM0011,2024-03-08,Indian,22,Consulting,Entry (0-2 yrs),Career Switch,Corporate HR,No,1,1,4.1,53.4,No,44,No,Individual (AED 199/mo),199,199,Low (<AED 1K),47.8
+MM0012,2023-02-02,Bangladeshi,34,Human Resources,Senior (6-10 yrs),Career Switch,Instagram,No,1,3,4.0,65.4,Yes,31,No,Individual (AED 199/mo),199,199,Low (<AED 1K),72.2
+MM0013,2023-01-31,French,28,Finance,Mid (3-5 yrs),Career Switch,Corporate HR,No,3,1,4.7,70.9,No,15,No,Individual (AED 199/mo),199,597,Low (<AED 1K),57.2
+MM0014,2023-04-06,Indian,33,Operations,Entry (0-2 yrs),Get Promoted,Google Search,Yes,18,2,2.1,40.5,Yes,11,Yes,Corporate (AED 399/mo),399,7182,Premium (AED 6K+),44.6
+MM0015,2023-08-12,Indian,22,Operations,Mid (3-5 yrs),Get Promoted,LinkedIn,No,1,1,2.1,28.3,Yes,28,Yes,Individual (AED 199/mo),199,199,Low (<AED 1K),29.7
+MM0016,2023-08-27,Indian,26,Finance,Mid (3-5 yrs),Skill Building,Word of Mouth,Yes,15,1,3.5,45.0,No,9,Yes,Corporate (AED 399/mo),399,5985,High (AED 3-6K),42.0
+MM0017,2024-06-01,Filipino,29,Human Resources,Mid (3-5 yrs),Skill Building,Instagram,No,8,4,4.6,80.3,No,64,No,Individual (AED 199/mo),199,1592,Mid (AED 1-3K),90.5
+MM0018,2024-09-08,British,29,Finance,Mid (3-5 yrs),Skill Building,Google Search,Yes,10,1,2.7,50.1,Yes,11,Yes,Corporate (AED 399/mo),399,3990,High (AED 3-6K),40.8
+MM0019,2023-01-28,Pakistani,27,Technology,Senior (6-10 yrs),Get Promoted,LinkedIn,No,9,3,1.7,36.7,Yes,28,Yes,Individual (AED 199/mo),199,1791,Mid (AED 1-3K),51.5
+MM0020,2024-07-28,Indian,31,Consulting,Mid (3-5 yrs),Network Building,Word of Mouth,No,1,2,4.2,55.7,Yes,28,No,Individual (AED 199/mo),199,199,Low (<AED 1K),59.1
+MM0021,2023-07-23,Egyptian,24,Finance,Senior (6-10 yrs),Get Promoted,Word of Mouth,Yes,8,1,4.0,43.1,No,32,No,Corporate (AED 399/mo),399,3192,High (AED 3-6K),43.2
+MM0022,2024-07-12,Indian,28,Human Resources,Senior (6-10 yrs),Start a Business,LinkedIn,No,5,4,3.0,41.5,Yes,42,Yes,Individual (AED 199/mo),199,995,Low (<AED 1K),68.6
+MM0023,2024-03-05,Indian,29,Human Resources,Entry (0-2 yrs),Skill Building,LinkedIn,No,9,1,3.1,48.9,No,28,Yes,Individual (AED 199/mo),199,1791,Mid (AED 1-3K),42.0
+MM0024,2023-08-14,Filipino,31,Marketing,Senior (6-10 yrs),Career Switch,Word of Mouth,Yes,12,3,3.1,58.0,No,28,Yes,Corporate (AED 399/mo),399,4788,High (AED 3-6K),65.6
+MM0025,2024-04-04,Pakistani,31,Finance,Entry (0-2 yrs),Skill Building,Corporate HR,No,2,1,3.9,57.6,Yes,26,No,Individual (AED 199/mo),199,398,Low (<AED 1K),48.6
+MM0026,2024-08-26,American,24,Technology,Senior (6-10 yrs),Get Promoted,LinkedIn,No,15,3,3.4,54.5,Yes,16,No,Individual (AED 199/mo),199,2985,Mid (AED 1-3K),65.4
+MM0027,2023-10-12,Indian,22,Consulting,Mid (3-5 yrs),Skill Building,Word of Mouth,No,1,1,4.1,68.3,No,4,No,Individual (AED 199/mo),199,199,Low (<AED 1K),53.7
+MM0028,2023-01-07,British,34,Real Estate,Senior (6-10 yrs),Career Switch,Instagram,Yes,13,2,1.8,26.8,No,-1,Yes,Corporate (AED 399/mo),399,5187,High (AED 3-6K),37.9
+MM0029,2023-06-13,Egyptian,30,Consulting,Senior (6-10 yrs),Career Switch,Corporate HR,Yes,8,3,3.2,63.0,Yes,17,Yes,Corporate (AED 399/mo),399,3192,High (AED 3-6K),68.0
+MM0030,2024-03-08,Indian,26,Technology,Senior (6-10 yrs),Network Building,LinkedIn,Yes,11,4,3.0,55.6,Yes,31,No,Corporate (AED 399/mo),399,4389,High (AED 3-6K),74.2
+MM0031,2023-12-15,Egyptian,35,Consulting,Mid (3-5 yrs),Career Switch,Google Search,Yes,7,4,3.6,57.1,No,42,Yes,Corporate (AED 399/mo),399,2793,Mid (AED 1-3K),77.2
+MM0032,2023-10-12,Indian,29,Marketing,Entry (0-2 yrs),Network Building,LinkedIn,Yes,12,3,3.4,61.7,No,46,No,Corporate (AED 399/mo),399,4788,High (AED 3-6K),68.3
+MM0033,2023-06-09,Indian,33,Human Resources,Entry (0-2 yrs),Get Promoted,Instagram,No,3,3,4.4,71.9,No,39,Yes,Individual (AED 199/mo),199,597,Low (<AED 1K),76.4
+MM0034,2023-08-09,Nigerian,29,Finance,Mid (3-5 yrs),Skill Building,LinkedIn,No,4,1,2.5,38.6,Yes,-18,Yes,Individual (AED 199/mo),199,796,Low (<AED 1K),35.4
+MM0035,2023-12-11,Bangladeshi,37,Human Resources,Entry (0-2 yrs),Skill Building,LinkedIn,No,5,1,3.8,51.4,Yes,35,No,Individual (AED 199/mo),199,995,Low (<AED 1K),45.8
+MM0036,2023-04-15,American,36,Marketing,Mid (3-5 yrs),Get Promoted,Word of Mouth,No,14,1,4.2,55.0,Yes,9,No,Individual (AED 199/mo),199,2786,Mid (AED 1-3K),48.8
+MM0037,2023-04-05,Filipino,28,Healthcare,Entry (0-2 yrs),Get Promoted,LinkedIn,Yes,10,2,5.0,93.9,No,39,Yes,Corporate (AED 399/mo),399,3990,High (AED 3-6K),77.6
+MM0038,2024-01-25,Indian,32,Technology,Senior (6-10 yrs),Career Switch,Corporate HR,Yes,13,2,3.5,63.8,No,31,Yes,Corporate (AED 399/mo),399,5187,High (AED 3-6K),59.5
+MM0040,2024-01-03,Pakistani,34,Healthcare,Senior (6-10 yrs),Get Promoted,Instagram,Yes,12,1,2.5,36.1,No,21,No,Corporate (AED 399/mo),399,4788,High (AED 3-6K),34.4
+MM0041,2023-12-19,Indian,25,Finance,Entry (0-2 yrs),Skill Building,LinkedIn,No,1,2,2.1,45.3,Yes,18,Yes,Individual (AED 199/mo),199,199,Low (<AED 1K),46.5
+MM0042,2024-09-10,Pakistani,31,Healthcare,Senior (6-10 yrs),Start a Business,LinkedIn,No,18,1,4.4,63.0,Yes,28,No,Individual (AED 199/mo),199,3582,High (AED 3-6K),52.8
+MM0043,2023-09-28,Indian,33,Consulting,Senior (6-10 yrs),Network Building,LinkedIn,No,1,2,3.8,55.9,Yes,60,Yes,Individual (AED 199/mo),199,199,Low (<AED 1K),57.6
+MM0044,2023-02-14,Nigerian,22,Finance,Mid (3-5 yrs),Network Building,Instagram,No,9,2,4.6,62.2,No,38,No,Individual (AED 199/mo),199,1791,Mid (AED 1-3K),63.3
+MM0045,2024-04-15,Indian,24,Technology,Mid (3-5 yrs),Network Building,Instagram,No,2,3,2.8,47.8,Yes,25,Yes,Individual (AED 199/mo),199,398,Low (<AED 1K),60.3
+MM0046,2024-07-03,Lebanese,22,Consulting,Mid (3-5 yrs),Skill Building,Instagram,No,1,3,4.2,33.7,Yes,56,No,Individual (AED 199/mo),199,199,Low (<AED 1K),60.3
+MM0047,2023-05-08,Filipino,27,Finance,Entry (0-2 yrs),Get Promoted,Word of Mouth,No,3,2,5.0,72.1,No,43,No,Individual (AED 199/mo),199,597,Low (<AED 1K),68.8
+MM0048,2024-01-23,British,31,Marketing,Mid (3-5 yrs),Start a Business,Word of Mouth,No,6,1,4.1,49.3,No,26,Yes,Individual (AED 199/mo),199,1194,Mid (AED 1-3K),46.1
+MM0049,2023-03-22,British,35,Technology,Mid (3-5 yrs),Skill Building,LinkedIn,No,3,2,4.0,73.9,No,28,Yes,Individual (AED 199/mo),199,597,Low (<AED 1K),65.6
+MM0050,2024-07-19,Indian,29,Consulting,Entry (0-2 yrs),Skill Building,Instagram,No,1,1,3.8,50.8,Yes,13,No,Individual (AED 199/mo),199,199,Low (<AED 1K),45.5
+MM0051,2023-10-28,Bangladeshi,35,Finance,Mid (3-5 yrs),Career Switch,University Career Fair,No,5,2,2.7,30.5,No,12,No,Individual (AED 199/mo),199,995,Low (<AED 1K),43.0
+MM0052,2024-09-25,American,23,Operations,Entry (0-2 yrs),Get Promoted,Word of Mouth,No,12,2,4.7,65.9,No,38,Yes,Individual (AED 199/mo),199,2388,Mid (AED 1-3K),65.2
+MM0053,2024-01-06,Nigerian,22,Real Estate,Entry (0-2 yrs),Get Promoted,Word of Mouth,No,3,1,3.4,35.3,No,30,No,Individual (AED 199/mo),199,597,Low (<AED 1K),37.7
+MM0054,2024-08-14,South African,28,Healthcare,Entry (0-2 yrs),Network Building,LinkedIn,No,2,1,4.2,60.1,Yes,28,No,Individual (AED 199/mo),199,398,Low (<AED 1K),50.8
+MM0055,2023-07-16,Egyptian,30,Consulting,Senior (6-10 yrs),Get Promoted,Corporate HR,Yes,8,4,2.7,55.3,Yes,7,Yes,Corporate (AED 399/mo),399,3192,High (AED 3-6K),72.9
+MM0056,2023-03-13,Nigerian,28,Finance,Mid (3-5 yrs),Get Promoted,Corporate HR,No,1,4,3.0,65.6,Yes,31,No,Individual (AED 199/mo),199,199,Low (<AED 1K),78.2
+MM0057,2023-02-16,Indian,22,Human Resources,Senior (6-10 yrs),Start a Business,Word of Mouth,No,9,2,4.8,59.7,No,13,Yes,Individual (AED 199/mo),199,1791,Mid (AED 1-3K),63.1
+MM0058,2023-08-22,Indian,28,Finance,Mid (3-5 yrs),Career Switch,University Career Fair,No,9,1,3.6,48.5,No,9,No,Individual (AED 199/mo),199,1791,Mid (AED 1-3K),43.8
+MM0059,2023-10-24,Indian,23,Finance,Entry (0-2 yrs),Get Promoted,LinkedIn,Yes,12,1,4.8,48.9,No,35,Yes,Corporate (AED 399/mo),399,4788,High (AED 3-6K),48.8
+MM0060,2023-03-23,Filipino,31,Technology,Mid (3-5 yrs),Career Switch,LinkedIn,No,3,2,3.7,61.4,No,13,Yes,Individual (AED 199/mo),199,597,Low (<AED 1K),59.4
+MM0061,2023-08-27,Filipino,30,Marketing,Mid (3-5 yrs),Skill Building,Corporate HR,No,9,4,2.5,55.2,No,13,No,Individual (AED 199/mo),199,1791,Mid (AED 1-3K),72.1
+MM0062,2023-04-14,Indian,25,Human Resources,Entry (0-2 yrs),Start a Business,Corporate HR,No,5,1,4.4,62.8,Yes,25,Yes,Individual (AED 199/mo),199,995,Low (<AED 1K),52.7
+MM0064,2023-10-12,Filipino,24,Technology,Entry (0-2 yrs),Network Building,LinkedIn,No,5,1,4.3,60.7,No,-2,No,Individual (AED 199/mo),199,995,Low (<AED 1K),51.5
+MM0065,2024-04-09,Indian,28,Technology,Mid (3-5 yrs),Get Promoted,LinkedIn,No,8,4,3.8,81.6,No,60,Yes,Individual (AED 199/mo),199,1592,Mid (AED 1-3K),87.8
+MM0066,2024-01-09,British,32,Real Estate,Mid (3-5 yrs),Start a Business,LinkedIn,No,5,2,2.7,39.5,No,29,No,Individual (AED 199/mo),199,995,Low (<AED 1K),46.6
+MM0067,2023-06-16,Indian,25,Technology,Entry (0-2 yrs),Network Building,Corporate HR,Yes,9,3,3.9,63.2,No,53,No,Corporate (AED 399/mo),399,3591,High (AED 3-6K),70.9
+MM0068,2024-01-15,American,31,Marketing,Entry (0-2 yrs),Network Building,Word of Mouth,No,16,2,5.0,59.1,Yes,58,Yes,Individual (AED 199/mo),199,3184,High (AED 3-6K),63.6
+MM0069,2023-12-30,Indian,26,Finance,Mid (3-5 yrs),Career Switch,LinkedIn,Yes,13,2,4.1,50.5,No,64,Yes,Corporate (AED 399/mo),399,5187,High (AED 3-6K),56.6
+MM0070,2023-08-03,Bangladeshi,25,Human Resources,Mid (3-5 yrs),Start a Business,Instagram,No,5,2,3.8,51.6,Yes,12,No,Individual (AED 199/mo),199,995,Low (<AED 1K),55.8
+MM0071,2023-10-01,American,28,Consulting,Entry (0-2 yrs),Skill Building,LinkedIn,Yes,11,1,4.6,71.2,No,27,Yes,Corporate (AED 399/mo),399,4389,High (AED 3-6K),56.9
+MM0072,2023-03-15,Indian,24,Finance,Senior (6-10 yrs),Get Promoted,LinkedIn,Yes,14,4,3.9,64.2,No,42,Yes,Corporate (AED 399/mo),399,5586,High (AED 3-6K),81.3
+MM0073,2024-09-15,Indian,26,Finance,Entry (0-2 yrs),Network Building,Word of Mouth,Yes,7,4,3.9,64.4,No,49,Yes,Corporate (AED 399/mo),399,2793,Mid (AED 1-3K),81.4
+MM0074,2023-06-25,French,24,Consulting,Mid (3-5 yrs),Get Promoted,University Career Fair,Yes,15,3,3.0,46.9,No,52,Yes,Corporate (AED 399/mo),399,5985,High (AED 3-6K),60.8
+MM0075,2024-06-30,Jordanian,36,Consulting,Senior (6-10 yrs),Network Building,Corporate HR,No,1,2,4.0,52.7,No,9,No,Individual (AED 199/mo),199,199,Low (<AED 1K),57.1
+MM0076,2023-09-08,Jordanian,29,Technology,Entry (0-2 yrs),Career Switch,LinkedIn,No,5,3,4.5,71.9,Yes,32,Yes,Individual (AED 199/mo),199,995,Low (<AED 1K),76.8
+MM0077,2023-06-17,American,26,Healthcare,Entry (0-2 yrs),Skill Building,Google Search,No,8,1,3.2,28.4,No,32,Yes,Individual (AED 199/mo),199,1592,Mid (AED 1-3K),34.2
+MM0078,2024-04-18,Indian,29,Finance,Entry (0-2 yrs),Get Promoted,Corporate HR,Yes,6,2,4.8,80.4,No,53,Yes,Corporate (AED 399/mo),399,2394,Mid (AED 1-3K),71.4
+MM0079,2024-01-24,Filipino,28,Technology,Entry (0-2 yrs),Career Switch,Corporate HR,Yes,7,2,3.7,47.7,No,21,No,Corporate (AED 399/mo),399,2793,Mid (AED 1-3K),53.9
+MM0080,2023-10-04,Indian,28,Healthcare,Entry (0-2 yrs),Career Switch,Instagram,Yes,8,2,3.2,55.6,Yes,34,No,Corporate (AED 399/mo),399,3192,High (AED 3-6K),55.0
+MM0081,2024-07-24,South African,31,Technology,Mid (3-5 yrs),Career Switch,Instagram,Yes,8,2,4.5,51.3,No,40,Yes,Corporate (AED 399/mo),399,3192,High (AED 3-6K),58.5
+MM0082,2023-08-13,Egyptian,32,Consulting,Entry (0-2 yrs),Get Promoted,LinkedIn,No,3,1,3.6,54.9,No,38,No,Individual (AED 199/mo),199,597,Low (<AED 1K),46.4
+MM0083,2023-11-29,Filipino,26,Technology,Mid (3-5 yrs),Get Promoted,LinkedIn,Yes,13,2,4.3,68.3,No,34,Yes,Corporate (AED 399/mo),399,5187,High (AED 3-6K),64.5
+MM0084,2023-02-27,Indian,26,Technology,Senior (6-10 yrs),Skill Building,LinkedIn,No,2,3,3.6,62.0,Yes,51,No,Individual (AED 199/mo),199,398,Low (<AED 1K),69.2
+MM0085,2023-08-23,Filipino,27,Real Estate,Senior (6-10 yrs),Get Promoted,LinkedIn,Yes,11,2,3.8,45.7,No,67,No,Corporate (AED 399/mo),399,4389,High (AED 3-6K),53.5
+MM0086,2023-02-02,Filipino,22,Technology,Mid (3-5 yrs),Get Promoted,Instagram,Yes,8,1,4.1,56.7,No,29,Yes,Corporate (AED 399/mo),399,3192,High (AED 3-6K),49.1
+MM0087,2023-11-20,Jordanian,22,Operations,Entry (0-2 yrs),Skill Building,Corporate HR,No,1,1,4.0,41.2,Yes,20,No,Individual (AED 199/mo),199,199,Low (<AED 1K),42.5
+MM0088,2024-02-15,Egyptian,34,Finance,Mid (3-5 yrs),Career Switch,Instagram,No,3,1,2.4,31.3,No,14,No,Individual (AED 199/mo),199,597,Low (<AED 1K),32.1
+MM0089,2023-10-02,South African,35,Finance,Mid (3-5 yrs),Start a Business,LinkedIn,Yes,4,1,3.0,51.3,No,4,No,Corporate (AED 399/mo),399,1596,Mid (AED 1-3K),42.5
+MM0091,2023-08-05,Indian,31,Consulting,Entry (0-2 yrs),Skill Building,Google Search,No,3,2,3.7,54.6,No,29,No,Individual (AED 199/mo),199,597,Low (<AED 1K),56.6
+MM0092,2024-08-03,Jordanian,30,Technology,Senior (6-10 yrs),Skill Building,Corporate HR,Yes,15,2,3.4,41.1,No,19,Yes,Corporate (AED 399/mo),399,5985,High (AED 3-6K),50.0
+MM0093,2023-11-19,American,41,Operations,Mid (3-5 yrs),Network Building,University Career Fair,Yes,12,2,2.8,50.1,No,5,Yes,Corporate (AED 399/mo),399,4788,High (AED 3-6K),51.2
+MM0094,2023-08-06,British,33,Marketing,Entry (0-2 yrs),Career Switch,Word of Mouth,No,4,3,3.0,51.2,Yes,46,Yes,Individual (AED 199/mo),199,796,Low (<AED 1K),62.5
+MM0095,2024-05-26,American,28,Healthcare,Mid (3-5 yrs),Career Switch,University Career Fair,No,1,1,2.4,20.0,Yes,17,Yes,Individual (AED 199/mo),199,199,Low (<AED 1K),27.6
+MM0096,2024-02-10,Pakistani,25,Finance,Mid (3-5 yrs),Career Switch,LinkedIn,No,1,2,3.7,62.2,No,19,No,Individual (AED 199/mo),199,199,Low (<AED 1K),59.7
+MM0097,2024-04-14,British,22,Operations,Senior (6-10 yrs),Network Building,Instagram,No,5,3,3.4,55.6,No,42,No,Individual (AED 199/mo),199,995,Low (<AED 1K),65.8
+MM0098,2023-05-27,Pakistani,29,Human Resources,Mid (3-5 yrs),Career Switch,LinkedIn,No,5,1,3.1,54.2,Yes,28,No,Individual (AED 199/mo),199,995,Low (<AED 1K),44.1
+MM0099,2023-09-29,Indian,25,Human Resources,Mid (3-5 yrs),Skill Building,LinkedIn,No,11,1,3.8,39.6,No,20,Yes,Individual (AED 199/mo),199,2189,Mid (AED 1-3K),41.0
+MM0100,2023-05-23,Indian,23,Human Resources,Entry (0-2 yrs),Start a Business,LinkedIn,No,5,3,4.1,32.4,No,47,No,Individual (AED 199/mo),199,995,Low (<AED 1K),59.4
+MM0101,2023-09-10,Indian,26,Human Resources,Mid (3-5 yrs),Network Building,Word of Mouth,No,17,2,5.0,72.8,No,65,No,Individual (AED 199/mo),199,3383,High (AED 3-6K),69.1
+MM0102,2024-07-28,Egyptian,24,Consulting,Mid (3-5 yrs),Get Promoted,Corporate HR,Yes,10,2,2.7,45.3,No,5,No,Corporate (AED 399/mo),399,3990,High (AED 3-6K),48.9
+MM0103,2024-07-05,Filipino,35,Finance,Entry (0-2 yrs),Career Switch,Word of Mouth,No,1,1,4.6,43.3,Yes,6,No,Individual (AED 199/mo),199,199,Low (<AED 1K),45.7
+MM0104,2023-09-27,British,32,Finance,Entry (0-2 yrs),Network Building,LinkedIn,No,1,2,4.5,54.2,No,21,No,Individual (AED 199/mo),199,199,Low (<AED 1K),59.7
+MM0105,2024-08-21,Nigerian,28,Operations,Mid (3-5 yrs),Skill Building,Corporate HR,No,2,2,3.3,77.2,Yes,2,Yes,Individual (AED 199/mo),199,398,Low (<AED 1K),64.1
+MM0106,2024-03-14,Indian,34,Consulting,Entry (0-2 yrs),Career Switch,Word of Mouth,No,4,1,3.9,48.7,No,39,No,Individual (AED 199/mo),199,796,Low (<AED 1K),45.1
+MM0107,2024-08-20,Pakistani,29,Human Resources,Mid (3-5 yrs),Career Switch,Instagram,No,6,2,3.5,59.3,Yes,48,Yes,Individual (AED 199/mo),199,1194,Mid (AED 1-3K),57.7
+MM0108,2024-02-13,American,25,Marketing,Entry (0-2 yrs),Start a Business,Word of Mouth,Yes,17,1,3.9,45.3,No,23,Yes,Corporate (AED 399/mo),399,6783,Premium (AED 6K+),43.7
+MM0109,2024-01-06,Indian,35,Finance,Entry (0-2 yrs),Skill Building,LinkedIn,No,15,2,4.9,47.9,Yes,57,Yes,Individual (AED 199/mo),199,2985,Mid (AED 1-3K),58.8
+MM0110,2023-08-13,Indian,31,Finance,Entry (0-2 yrs),Network Building,LinkedIn,Yes,11,1,4.2,53.7,No,24,No,Corporate (AED 399/mo),399,4389,High (AED 3-6K),48.3
+MM0111,2023-05-22,Indian,24,Consulting,Senior (6-10 yrs),Network Building,Google Search,No,2,1,4.2,52.7,No,20,No,Individual (AED 199/mo),199,398,Low (<AED 1K),47.9
+MM0112,2024-06-05,Indian,28,Technology,Senior (6-10 yrs),Skill Building,LinkedIn,Yes,9,1,3.5,43.0,No,28,No,Corporate (AED 399/mo),399,3591,High (AED 3-6K),41.2
+MM0113,2024-05-20,Nigerian,25,Finance,Senior (6-10 yrs),Get Promoted,Instagram,No,1,1,2.8,37.5,Yes,3,No,Individual (AED 199/mo),199,199,Low (<AED 1K),36.2
+MM0114,2023-04-04,American,23,Marketing,Mid (3-5 yrs),Get Promoted,Google Search,Yes,10,4,3.7,67.0,No,23,Yes,Corporate (AED 399/mo),399,3990,High (AED 3-6K),81.6
+MM0115,2023-02-18,Egyptian,32,Finance,Entry (0-2 yrs),Get Promoted,Corporate HR,No,1,1,4.6,58.7,Yes,29,No,Individual (AED 199/mo),199,199,Low (<AED 1K),51.9
+MM0116,2023-04-23,South African,36,Marketing,Mid (3-5 yrs),Get Promoted,LinkedIn,No,4,2,2.7,29.8,No,16,No,Individual (AED 199/mo),199,796,Low (<AED 1K),42.7
+MM0117,2023-06-06,American,23,Technology,Mid (3-5 yrs),Network Building,LinkedIn,Yes,11,1,3.1,47.1,No,22,No,Corporate (AED 399/mo),399,4389,High (AED 3-6K),41.2
+MM0118,2023-06-13,Indian,31,Human Resources,Senior (6-10 yrs),Skill Building,LinkedIn,No,3,2,3.9,37.3,No,30,No,Individual (AED 199/mo),199,597,Low (<AED 1K),50.5
+MM0119,2024-03-08,South African,26,Technology,Entry (0-2 yrs),Network Building,Word of Mouth,No,18,4,3.1,36.7,No,38,No,Individual (AED 199/mo),199,3582,High (AED 3-6K),67.1
+MM0120,2024-09-02,British,27,Marketing,Mid (3-5 yrs),Get Promoted,Instagram,Yes,7,1,3.2,50.8,No,-1,Yes,Corporate (AED 399/mo),399,2793,Mid (AED 1-3K),43.1
+MM0121,2023-03-07,American,26,Finance,Entry (0-2 yrs),Skill Building,LinkedIn,No,15,4,3.5,67.1,No,46,No,Individual (AED 199/mo),199,2985,Mid (AED 1-3K),80.8
+MM0122,2024-01-30,South African,25,Finance,Entry (0-2 yrs),Skill Building,University Career Fair,Yes,15,1,2.8,38.0,Yes,19,Yes,Corporate (AED 399/mo),399,5985,High (AED 3-6K),36.4
+MM0123,2024-01-26,Filipino,29,Technology,Mid (3-5 yrs),Skill Building,Word of Mouth,No,3,3,3.1,38.2,No,13,No,Individual (AED 199/mo),199,597,Low (<AED 1K),57.7
+MM0124,2024-09-02,Indian,25,Marketing,Mid (3-5 yrs),Skill Building,LinkedIn,No,5,2,4.3,54.5,No,34,Yes,Individual (AED 199/mo),199,995,Low (<AED 1K),59.0
+MM0125,2024-04-24,Indian,30,Consulting,Mid (3-5 yrs),Career Switch,Word of Mouth,No,1,3,2.9,47.2,Yes,32,No,Individual (AED 199/mo),199,199,Low (<AED 1K),60.5
+MM0126,2024-06-25,Pakistani,28,Technology,Mid (3-5 yrs),Get Promoted,Word of Mouth,No,1,2,2.7,26.4,Yes,6,No,Individual (AED 199/mo),199,199,Low (<AED 1K),41.4
+MM0127,2023-09-15,French,28,Consulting,Mid (3-5 yrs),Career Switch,LinkedIn,Yes,13,2,3.4,43.4,No,15,Yes,Corporate (AED 399/mo),399,5187,High (AED 3-6K),51.0
+MM0128,2024-07-20,South African,25,Operations,Mid (3-5 yrs),Get Promoted,LinkedIn,Yes,8,1,4.3,63.1,No,26,Yes,Corporate (AED 399/mo),399,3192,High (AED 3-6K),52.4
+MM0129,2023-01-12,Indian,26,Human Resources,Senior (6-10 yrs),Get Promoted,Corporate HR,No,3,1,3.7,63.7,No,0,Yes,Individual (AED 199/mo),199,597,Low (<AED 1K),50.3
+MM0130,2023-04-28,British,32,Finance,Senior (6-10 yrs),Skill Building,Instagram,No,4,4,3.5,57.8,Yes,50,No,Individual (AED 199/mo),199,796,Low (<AED 1K),77.1
+MM0131,2024-07-03,Pakistani,31,Marketing,Mid (3-5 yrs),Start a Business,Word of Mouth,No,3,2,3.8,63.2,No,28,No,Individual (AED 199/mo),199,597,Low (<AED 1K),60.5
+MM0132,2023-10-01,Indian,25,Finance,Entry (0-2 yrs),Skill Building,Instagram,No,1,2,2.6,22.1,Yes,31,No,Individual (AED 199/mo),199,199,Low (<AED 1K),39.2
+MM0133,2023-12-15,Indian,29,Finance,Mid (3-5 yrs),Skill Building,LinkedIn,No,3,3,4.1,70.8,No,76,No,Individual (AED 199/mo),199,597,Low (<AED 1K),74.7
+MM0134,2023-04-25,Filipino,32,Real Estate,Mid (3-5 yrs),Get Promoted,LinkedIn,No,1,2,4.1,51.2,No,18,Yes,Individual (AED 199/mo),199,199,Low (<AED 1K),56.9
+MM0135,2023-10-28,Nigerian,22,Finance,Entry (0-2 yrs),Skill Building,Instagram,No,1,4,3.5,65.1,No,53,No,Individual (AED 199/mo),199,199,Low (<AED 1K),80.0
+MM0136,2024-03-21,Filipino,31,Marketing,Senior (6-10 yrs),Career Switch,LinkedIn,No,16,3,4.5,66.5,No,34,Yes,Individual (AED 199/mo),199,3184,High (AED 3-6K),74.6
+MM0137,2023-06-11,British,26,Consulting,Entry (0-2 yrs),Get Promoted,LinkedIn,No,5,2,3.0,59.2,No,35,Yes,Individual (AED 199/mo),199,995,Low (<AED 1K),55.7
+MM0138,2024-04-09,Jordanian,31,Consulting,Senior (6-10 yrs),Get Promoted,Corporate HR,Yes,11,3,4.6,61.5,No,27,No,Corporate (AED 399/mo),399,4389,High (AED 3-6K),73.0
+MM0139,2023-01-04,Filipino,25,Marketing,Mid (3-5 yrs),Get Promoted,University Career Fair,No,2,1,3.9,58.1,Yes,26,No,Individual (AED 199/mo),199,398,Low (<AED 1K),48.8
+MM0140,2023-09-27,Bangladeshi,22,Finance,Mid (3-5 yrs),Career Switch,Corporate HR,No,3,1,3.6,45.4,Yes,2,Yes,Individual (AED 199/mo),199,597,Low (<AED 1K),42.6
+MM0141,2024-05-27,Bangladeshi,22,Technology,Mid (3-5 yrs),Career Switch,Google Search,No,2,2,3.8,54.0,No,24,Yes,Individual (AED 199/mo),199,398,Low (<AED 1K),56.8
+MM0142,2023-07-02,Indian,29,Marketing,Senior (6-10 yrs),Get Promoted,LinkedIn,Yes,13,1,3.7,47.6,No,1,Yes,Corporate (AED 399/mo),399,5187,High (AED 3-6K),43.8
+MM0143,2024-06-03,Pakistani,30,Finance,Mid (3-5 yrs),Start a Business,University Career Fair,No,1,3,4.7,62.9,No,59,No,Individual (AED 199/mo),199,199,Low (<AED 1K),74.0
+MM0144,2023-04-19,Filipino,25,Technology,Mid (3-5 yrs),Get Promoted,LinkedIn,No,8,4,3.0,55.9,No,27,Yes,Individual (AED 199/mo),199,1592,Mid (AED 1-3K),74.4
+MM0145,2023-11-02,Indian,31,Finance,Entry (0-2 yrs),Get Promoted,University Career Fair,No,6,2,3.3,49.0,No,31,No,Individual (AED 199/mo),199,1194,Mid (AED 1-3K),52.8
+MM0146,2024-06-03,Indian,22,Finance,Mid (3-5 yrs),Career Switch,University Career Fair,Yes,11,2,4.5,66.4,No,29,Yes,Corporate (AED 399/mo),399,4389,High (AED 3-6K),64.6
+MM0147,2024-09-15,Egyptian,28,Technology,Entry (0-2 yrs),Skill Building,Corporate HR,Yes,8,4,3.4,61.6,No,42,Yes,Corporate (AED 399/mo),399,3192,High (AED 3-6K),78.2
+MM0148,2023-07-23,British,24,Finance,Mid (3-5 yrs),Get Promoted,University Career Fair,No,13,2,4.4,70.8,No,36,Yes,Individual (AED 199/mo),199,2587,Mid (AED 1-3K),65.9
+MM0149,2023-06-06,Indian,26,Marketing,Mid (3-5 yrs),Career Switch,Word of Mouth,No,1,2,5.0,79.2,No,28,No,Individual (AED 199/mo),199,199,Low (<AED 1K),71.7
+MM0150,2024-01-18,Indian,29,Consulting,Mid (3-5 yrs),Get Promoted,LinkedIn,No,2,2,3.5,41.5,Yes,28,No,Individual (AED 199/mo),199,398,Low (<AED 1K),50.6
+MM0151,2023-06-15,Nigerian,25,Human Resources,Entry (0-2 yrs),Career Switch,Instagram,No,3,4,4.3,80.3,Yes,28,No,Individual (AED 199/mo),199,597,Low (<AED 1K),89.3
+MM0152,2024-07-06,Indian,27,Finance,Entry (0-2 yrs),Career Switch,Word of Mouth,Yes,7,2,3.0,34.1,No,8,No,Corporate (AED 399/mo),399,2793,Mid (AED 1-3K),45.6
+MM0153,2024-06-27,Indian,33,Finance,Mid (3-5 yrs),Career Switch,LinkedIn,No,18,3,4.3,72.5,No,60,Yes,Individual (AED 199/mo),199,3582,High (AED 3-6K),76.2
+MM0154,2023-01-01,Pakistani,26,Finance,Entry (0-2 yrs),Career Switch,Word of Mouth,Yes,11,3,3.9,68.0,No,28,Yes,Corporate (AED 399/mo),399,4389,High (AED 3-6K),72.8
+MM0155,2024-09-05,Bangladeshi,32,Consulting,Entry (0-2 yrs),Career Switch,University Career Fair,No,11,2,4.1,40.1,No,18,Yes,Individual (AED 199/mo),199,2189,Mid (AED 1-3K),52.4
+MM0156,2023-11-28,Indian,24,Consulting,Entry (0-2 yrs),Get Promoted,LinkedIn,No,9,2,3.3,50.5,Yes,1,Yes,Individual (AED 199/mo),199,1791,Mid (AED 1-3K),53.4
+MM0157,2024-05-15,Lebanese,31,Finance,Senior (6-10 yrs),Network Building,Corporate HR,No,2,3,2.6,41.5,No,28,No,Individual (AED 199/mo),199,398,Low (<AED 1K),57.0
+MM0158,2023-01-20,American,34,Healthcare,Mid (3-5 yrs),Skill Building,Google Search,No,3,2,4.2,52.8,No,23,Yes,Individual (AED 199/mo),199,597,Low (<AED 1K),57.9
+MM0160,2024-01-07,Jordanian,25,Marketing,Entry (0-2 yrs),Get Promoted,University Career Fair,No,18,4,3.6,56.7,No,46,Yes,Individual (AED 199/mo),199,3582,High (AED 3-6K),77.1
+MM0161,2023-11-11,Filipino,31,Consulting,Entry (0-2 yrs),Start a Business,Word of Mouth,Yes,8,2,4.5,55.9,Yes,22,No,Corporate (AED 399/mo),399,3192,High (AED 3-6K),60.4
+MM0162,2023-09-03,Egyptian,28,Operations,Mid (3-5 yrs),Get Promoted,University Career Fair,No,9,3,3.9,62.6,No,28,Yes,Individual (AED 199/mo),199,1791,Mid (AED 1-3K),70.6
+MM0163,2023-03-01,Egyptian,30,Consulting,Mid (3-5 yrs),Career Switch,Corporate HR,No,3,3,5.0,81.9,No,66,No,Individual (AED 199/mo),199,597,Low (<AED 1K),82.8
+MM0164,2023-09-04,British,26,Human Resources,Entry (0-2 yrs),Skill Building,LinkedIn,Yes,3,3,4.5,67.6,No,36,Yes,Corporate (AED 399/mo),399,1197,Mid (AED 1-3K),75.0
+MM0165,2024-08-03,Indian,29,Technology,Entry (0-2 yrs),Career Switch,Instagram,No,3,2,3.3,61.3,No,23,No,Individual (AED 199/mo),199,597,Low (<AED 1K),57.7
+MM0166,2023-03-22,French,28,Human Resources,Entry (0-2 yrs),Get Promoted,Corporate HR,No,5,1,3.8,55.9,No,32,No,Individual (AED 199/mo),199,995,Low (<AED 1K),47.6
+MM0167,2023-03-29,Filipino,33,Finance,Mid (3-5 yrs),Get Promoted,LinkedIn,No,9,2,3.8,33.8,No,20,No,Individual (AED 199/mo),199,1791,Mid (AED 1-3K),48.7
+MM0168,2024-05-12,Indian,30,Operations,Mid (3-5 yrs),Network Building,Word of Mouth,No,9,2,2.7,37.1,No,16,No,Individual (AED 199/mo),199,1791,Mid (AED 1-3K),45.6
+MM0169,2023-03-12,Indian,30,Marketing,Entry (0-2 yrs),Get Promoted,Word of Mouth,No,11,2,3.1,41.6,No,28,Yes,Individual (AED 199/mo),199,2189,Mid (AED 1-3K),49.0
+MM0171,2023-05-09,Lebanese,27,Marketing,Entry (0-2 yrs),Start a Business,Word of Mouth,Yes,9,2,2.4,20.0,Yes,22,No,Corporate (AED 399/mo),399,3591,High (AED 3-6K),37.6
+MM0172,2023-05-12,Indian,27,Consulting,Senior (6-10 yrs),Career Switch,Corporate HR,No,1,2,3.8,81.1,No,24,No,Individual (AED 199/mo),199,199,Low (<AED 1K),67.6
+MM0173,2024-05-01,British,30,Marketing,Entry (0-2 yrs),Get Promoted,Instagram,No,3,1,3.6,53.5,No,16,No,Individual (AED 199/mo),199,597,Low (<AED 1K),45.8
+MM0174,2024-07-16,Indian,27,Consulting,Mid (3-5 yrs),Get Promoted,LinkedIn,Yes,7,3,2.6,47.7,Yes,28,Yes,Corporate (AED 399/mo),399,2793,Mid (AED 1-3K),59.5
+MM0175,2023-06-19,Egyptian,30,Finance,Mid (3-5 yrs),Get Promoted,LinkedIn,No,3,2,4.1,71.0,No,8,No,Individual (AED 199/mo),199,597,Low (<AED 1K),64.8
+MM0176,2023-09-29,Indian,37,Finance,Mid (3-5 yrs),Get Promoted,Instagram,No,4,1,4.3,80.0,No,26,No,Individual (AED 199/mo),199,796,Low (<AED 1K),59.2
+MM0177,2024-06-24,Lebanese,32,Finance,Entry (0-2 yrs),Start a Business,Google Search,No,18,1,4.0,61.7,Yes,48,No,Individual (AED 199/mo),199,3582,High (AED 3-6K),50.7
+MM0178,2024-09-13,Filipino,27,Finance,Entry (0-2 yrs),Skill Building,LinkedIn,Yes,8,3,3.6,67.7,No,22,No,Corporate (AED 399/mo),399,3192,High (AED 3-6K),71.5
+MM0179,2024-03-09,Nigerian,33,Operations,Mid (3-5 yrs),Skill Building,Word of Mouth,No,6,2,4.2,61.7,No,20,No,Individual (AED 199/mo),199,1194,Mid (AED 1-3K),61.5
+MM0180,2023-08-05,Indian,27,Finance,Mid (3-5 yrs),Get Promoted,LinkedIn,No,3,1,4.3,55.2,No,28,Yes,Individual (AED 199/mo),199,597,Low (<AED 1K),49.3
+MM0181,2024-07-06,Filipino,22,Real Estate,Mid (3-5 yrs),Network Building,LinkedIn,No,1,4,4.0,63.2,Yes,60,No,Individual (AED 199/mo),199,199,Low (<AED 1K),81.3
+MM0182,2023-07-25,Indian,24,Technology,Mid (3-5 yrs),Start a Business,Corporate HR,No,1,3,3.2,45.1,Yes,38,No,Individual (AED 199/mo),199,199,Low (<AED 1K),60.8
+MM0183,2023-11-16,Nigerian,22,Finance,Entry (0-2 yrs),Network Building,Corporate HR,No,15,4,4.0,61.1,No,47,No,Individual (AED 199/mo),199,2985,Mid (AED 1-3K),80.4
+MM0184,2024-02-13,South African,27,Human Resources,Senior (6-10 yrs),Career Switch,LinkedIn,No,11,2,4.6,51.7,No,22,No,Individual (AED 199/mo),199,2189,Mid (AED 1-3K),59.1
+MM0185,2024-01-18,Indian,29,Consulting,Mid (3-5 yrs),Skill Building,Instagram,Yes,15,2,3.4,50.0,Yes,28,Yes,Corporate (AED 399/mo),399,5985,High (AED 3-6K),53.6
+MM0186,2024-03-24,Lebanese,35,Marketing,Entry (0-2 yrs),Career Switch,LinkedIn,No,18,3,5.0,58.2,Yes,26,No,Individual (AED 199/mo),199,3582,High (AED 3-6K),73.3
+MM0187,2024-06-13,French,30,Marketing,Senior (6-10 yrs),Get Promoted,Instagram,No,2,2,3.4,52.7,No,26,No,Individual (AED 199/mo),199,398,Low (<AED 1K),54.7
+MM0189,2023-05-04,British,32,Finance,Mid (3-5 yrs),Skill Building,LinkedIn,Yes,6,1,3.3,46.1,No,-5,Yes,Corporate (AED 399/mo),399,2394,Mid (AED 1-3K),41.6
+MM0190,2023-09-11,Indian,22,Real Estate,Mid (3-5 yrs),Skill Building,LinkedIn,Yes,15,2,4.0,52.8,Yes,7,Yes,Corporate (AED 399/mo),399,5985,High (AED 3-6K),57.1
+MM0191,2023-08-19,Indian,29,Real Estate,Senior (6-10 yrs),Career Switch,Instagram,No,3,1,2.6,67.0,No,29,No,Individual (AED 199/mo),199,597,Low (<AED 1K),47.2
+MM0192,2023-03-07,South African,32,Consulting,Mid (3-5 yrs),Get Promoted,Google Search,No,3,1,3.4,59.4,Yes,4,No,Individual (AED 199/mo),199,597,Low (<AED 1K),47.4
+MM0193,2023-12-13,Nigerian,23,Finance,Entry (0-2 yrs),Get Promoted,University Career Fair,No,5,1,3.0,28.6,No,27,No,Individual (AED 199/mo),199,995,Low (<AED 1K),33.4
+MM0194,2023-01-22,Egyptian,33,Consulting,Entry (0-2 yrs),Get Promoted,LinkedIn,No,5,1,3.9,54.1,Yes,16,No,Individual (AED 199/mo),199,995,Low (<AED 1K),47.2
+MM0195,2024-08-25,Filipino,30,Finance,Senior (6-10 yrs),Career Switch,Corporate HR,No,1,4,4.5,67.9,No,52,No,Individual (AED 199/mo),199,199,Low (<AED 1K),85.2
+MM0196,2024-07-21,Filipino,27,Finance,Entry (0-2 yrs),Get Promoted,Instagram,No,4,1,4.3,46.5,No,29,No,Individual (AED 199/mo),199,796,Low (<AED 1K),45.8
+MM0197,2023-08-24,Jordanian,31,Technology,Mid (3-5 yrs),Network Building,Instagram,No,5,2,2.1,21.8,No,-2,No,Individual (AED 199/mo),199,995,Low (<AED 1K),37.1
+MM0198,2024-08-25,South African,38,Marketing,Mid (3-5 yrs),Career Switch,Corporate HR,No,5,3,5.0,79.3,No,51,Yes,Individual (AED 199/mo),199,995,Low (<AED 1K),81.7
+MM0199,2023-08-14,South African,29,Operations,Mid (3-5 yrs),Career Switch,Google Search,No,2,2,4.0,51.2,Yes,24,Yes,Individual (AED 199/mo),199,398,Low (<AED 1K),56.5
+MM0200,2023-01-08,American,29,Consulting,Mid (3-5 yrs),Get Promoted,University Career Fair,Yes,10,1,3.3,54.3,No,-6,Yes,Corporate (AED 399/mo),399,3990,High (AED 3-6K),44.9
+MM0201,2023-03-14,Egyptian,27,Consulting,Senior (6-10 yrs),Start a Business,Word of Mouth,No,1,3,3.9,71.7,Yes,44,No,Individual (AED 199/mo),199,199,Low (<AED 1K),74.3
+MM0202,2023-03-02,Indian,25,Technology,Entry (0-2 yrs),Skill Building,Instagram,No,3,2,3.9,70.5,Yes,25,No,Individual (AED 199/mo),199,597,Low (<AED 1K),63.8
+MM0203,2023-08-23,Indian,32,Technology,Entry (0-2 yrs),Skill Building,Corporate HR,Yes,9,3,3.3,46.1,No,30,No,Corporate (AED 399/mo),399,3591,High (AED 3-6K),61.6
+MM0204,2023-03-11,South African,25,Technology,Entry (0-2 yrs),Get Promoted,LinkedIn,Yes,10,3,3.9,66.6,No,20,Yes,Corporate (AED 399/mo),399,3990,High (AED 3-6K),72.2
+MM0205,2023-02-02,Egyptian,29,Real Estate,Senior (6-10 yrs),Skill Building,Word of Mouth,No,2,4,3.4,67.1,No,67,No,Individual (AED 199/mo),199,398,Low (<AED 1K),80.4
+MM0206,2023-12-05,Indian,27,Finance,Mid (3-5 yrs),Career Switch,Instagram,Yes,13,2,3.5,47.3,Yes,38,Yes,Corporate (AED 399/mo),399,5187,High (AED 3-6K),52.9
+MM0207,2023-03-14,Indian,30,Operations,Entry (0-2 yrs),Skill Building,Word of Mouth,Yes,4,2,3.3,41.9,No,37,No,Corporate (AED 399/mo),399,1596,Mid (AED 1-3K),50.0
+MM0208,2024-06-10,Lebanese,30,Marketing,Senior (6-10 yrs),Start a Business,LinkedIn,No,8,2,2.8,59.7,No,13,Yes,Individual (AED 199/mo),199,1592,Mid (AED 1-3K),55.1
+MM0209,2023-09-01,Indian,33,Technology,Senior (6-10 yrs),Skill Building,LinkedIn,No,7,1,3.9,54.1,No,-6,Yes,Individual (AED 199/mo),199,1393,Mid (AED 1-3K),47.2
+MM0210,2023-10-13,Indian,26,Consulting,Senior (6-10 yrs),Network Building,Google Search,No,5,3,4.2,71.8,Yes,71,No,Individual (AED 199/mo),199,995,Low (<AED 1K),75.5
+MM0211,2024-05-12,British,27,Marketing,Senior (6-10 yrs),Skill Building,LinkedIn,Yes,9,1,4.2,47.2,Yes,21,Yes,Corporate (AED 399/mo),399,3591,High (AED 3-6K),45.7
+MM0212,2023-08-08,Lebanese,25,Operations,Entry (0-2 yrs),Career Switch,Word of Mouth,Yes,11,2,4.4,50.6,No,22,No,Corporate (AED 399/mo),399,4389,High (AED 3-6K),57.8
+MM0213,2024-07-06,Lebanese,27,Operations,Mid (3-5 yrs),Start a Business,LinkedIn,No,2,3,4.0,57.3,No,46,Yes,Individual (AED 199/mo),199,398,Low (<AED 1K),68.9
+MM0214,2023-05-16,Indian,30,Technology,Mid (3-5 yrs),Career Switch,LinkedIn,No,3,2,3.4,49.6,No,41,No,Individual (AED 199/mo),199,597,Low (<AED 1K),53.4
+MM0215,2024-08-07,Jordanian,32,Technology,Senior (6-10 yrs),Get Promoted,LinkedIn,No,5,2,4.4,52.2,No,33,No,Individual (AED 199/mo),199,995,Low (<AED 1K),58.5
+MM0216,2024-08-13,Indian,25,Marketing,Mid (3-5 yrs),Career Switch,LinkedIn,No,4,2,2.8,43.5,No,37,Yes,Individual (AED 199/mo),199,796,Low (<AED 1K),48.6
+MM0217,2024-04-29,Filipino,32,Operations,Mid (3-5 yrs),Career Switch,Google Search,No,2,3,3.2,36.5,No,48,Yes,Individual (AED 199/mo),199,398,Low (<AED 1K),57.4
+MM0218,2023-09-06,Jordanian,34,Finance,Mid (3-5 yrs),Get Promoted,LinkedIn,Yes,11,2,3.1,36.0,No,4,No,Corporate (AED 399/mo),399,4389,High (AED 3-6K),46.8
+MM0219,2024-04-29,Egyptian,30,Consulting,Entry (0-2 yrs),Get Promoted,University Career Fair,No,4,3,4.6,76.9,No,28,No,Individual (AED 199/mo),199,796,Low (<AED 1K),79.2
+MM0220,2024-02-21,French,36,Consulting,Mid (3-5 yrs),Get Promoted,Word of Mouth,Yes,12,1,4.5,65.0,Yes,39,Yes,Corporate (AED 399/mo),399,4788,High (AED 3-6K),54.0
+MM0221,2023-07-14,Lebanese,25,Consulting,Senior (6-10 yrs),Skill Building,Instagram,No,7,3,4.1,60.3,Yes,0,No,Individual (AED 199/mo),199,1393,Mid (AED 1-3K),70.5
+MM0222,2023-04-07,British,24,Finance,Senior (6-10 yrs),Career Switch,Word of Mouth,No,1,3,4.6,60.0,Yes,43,No,Individual (AED 199/mo),199,199,Low (<AED 1K),72.4
+MM0223,2023-04-10,Indian,22,Consulting,Entry (0-2 yrs),Career Switch,Word of Mouth,No,5,1,3.2,33.1,Yes,-9,No,Individual (AED 199/mo),199,995,Low (<AED 1K),36.0
+MM0224,2024-03-17,Filipino,34,Operations,Entry (0-2 yrs),Skill Building,Corporate HR,Yes,11,2,4.0,54.3,No,22,Yes,Corporate (AED 399/mo),399,4389,High (AED 3-6K),57.7
+MM0225,2023-12-29,Indian,31,Finance,Entry (0-2 yrs),Get Promoted,LinkedIn,Yes,6,1,3.7,55.8,Yes,12,Yes,Corporate (AED 399/mo),399,2394,Mid (AED 1-3K),47.1
+MM0226,2024-03-09,Indian,28,Finance,Mid (3-5 yrs),Skill Building,Instagram,No,4,3,4.4,77.1,No,28,No,Individual (AED 199/mo),199,796,Low (<AED 1K),78.4
+MM0227,2024-02-25,Bangladeshi,30,Real Estate,Senior (6-10 yrs),Skill Building,Google Search,Yes,11,2,3.7,49.4,No,18,No,Corporate (AED 399/mo),399,4389,High (AED 3-6K),54.6
+MM0228,2024-04-23,Filipino,24,Finance,Entry (0-2 yrs),Network Building,Google Search,No,5,2,3.5,40.5,No,8,No,Individual (AED 199/mo),199,995,Low (<AED 1K),50.2
+MM0229,2023-02-25,South African,38,Operations,Mid (3-5 yrs),Skill Building,Google Search,Yes,6,1,4.2,58.1,Yes,56,Yes,Corporate (AED 399/mo),399,2394,Mid (AED 1-3K),50.0
+MM0230,2023-04-11,Egyptian,29,Marketing,Senior (6-10 yrs),Get Promoted,Instagram,No,3,1,4.4,49.6,No,52,No,Individual (AED 199/mo),199,597,Low (<AED 1K),47.4
+MM0231,2023-03-04,American,29,Finance,Mid (3-5 yrs),Skill Building,Corporate HR,No,4,1,3.3,39.4,No,-4,No,Individual (AED 199/mo),199,796,Low (<AED 1K),39.0
+MM0232,2024-02-17,British,31,Operations,Mid (3-5 yrs),Get Promoted,Instagram,No,12,2,3.8,68.9,No,51,No,Individual (AED 199/mo),199,2388,Mid (AED 1-3K),62.8
+MM0233,2023-12-14,British,30,Technology,Mid (3-5 yrs),Get Promoted,Instagram,No,2,2,3.1,55.5,Yes,15,Yes,Individual (AED 199/mo),199,398,Low (<AED 1K),54.6
+MM0234,2023-04-22,Pakistani,29,Marketing,Mid (3-5 yrs),Network Building,LinkedIn,Yes,10,3,2.1,41.8,No,22,No,Corporate (AED 399/mo),399,3990,High (AED 3-6K),55.1
+MM0235,2023-09-12,Indian,25,Technology,Entry (0-2 yrs),Get Promoted,Word of Mouth,Yes,9,2,3.9,44.1,No,28,No,Corporate (AED 399/mo),399,3591,High (AED 3-6K),53.2
+MM0236,2023-07-16,Jordanian,30,Marketing,Mid (3-5 yrs),Network Building,LinkedIn,No,5,2,4.2,62.5,No,22,No,Individual (AED 199/mo),199,995,Low (<AED 1K),61.8
+MM0237,2023-07-14,Indian,36,Finance,Mid (3-5 yrs),Network Building,LinkedIn,No,12,4,4.0,78.6,No,64,No,Individual (AED 199/mo),199,2388,Mid (AED 1-3K),87.4
+MM0238,2024-07-03,India,34,Technology,Senior (6-10 yrs),Network Building,Google Search,No,5,3,2.4,40.0,Yes,25,No,Individual (AED 199/mo),199,995,Low (<AED 1K),55.6
+MM0239,2024-04-04,Egyptian,35,Healthcare,Mid (3-5 yrs),Start a Business,LinkedIn,Yes,8,4,3.6,76.7,No,38,No,Corporate (AED 399/mo),399,3192,High (AED 3-6K),85.1
+MM0240,2023-05-24,Indian,26,Technology,Mid (3-5 yrs),Get Promoted,LinkedIn,Yes,8,2,2.2,49.3,No,-7,Yes,Corporate (AED 399/mo),399,3192,High (AED 3-6K),48.5
+MM0241,2024-03-08,Nigerian,25,Consulting,Entry (0-2 yrs),Get Promoted,LinkedIn,Yes,11,1,4.8,79.2,No,14,Yes,Corporate (AED 399/mo),399,4389,High (AED 3-6K),60.9
+MM0242,2023-07-07,Bangladeshi,28,Technology,Mid (3-5 yrs),Skill Building,Google Search,No,13,1,3.0,44.1,No,-14,Yes,Individual (AED 199/mo),199,2587,Mid (AED 1-3K),39.6
+MM0243,2023-10-13,Nigerian,29,Human Resources,Entry (0-2 yrs),Get Promoted,Word of Mouth,Yes,9,3,4.7,77.3,Yes,47,No,Corporate (AED 399/mo),399,3591,High (AED 3-6K),79.7
+MM0244,2024-04-18,Filipino,33,Finance,Entry (0-2 yrs),Skill Building,Instagram,No,1,1,4.5,73.1,Yes,28,No,Individual (AED 199/mo),199,199,Low (<AED 1K),57.2
+MM0245,2023-09-13,Indian,22,Healthcare,Mid (3-5 yrs),Skill Building,Corporate HR,Yes,4,2,3.2,52.9,Yes,18,No,Corporate (AED 399/mo),399,1596,Mid (AED 1-3K),54.0
+MM0246,2023-03-19,Nigerian,35,Marketing,Senior (6-10 yrs),Skill Building,Corporate HR,No,2,2,3.0,41.0,No,40,No,Individual (AED 199/mo),199,398,Low (<AED 1K),48.4
+MM0247,2024-03-29,Pakistani,28,Finance,Entry (0-2 yrs),Get Promoted,LinkedIn,No,2,2,4.0,53.5,No,47,No,Individual (AED 199/mo),199,398,Low (<AED 1K),57.4
+MM0248,2024-07-17,Bangladeshi,27,Finance,Mid (3-5 yrs),Career Switch,Word of Mouth,No,2,2,3.2,50.8,No,21,Yes,Individual (AED 199/mo),199,398,Low (<AED 1K),53.1
+MM0249,2023-04-11,Bangladeshi,24,Finance,Senior (6-10 yrs),Get Promoted,Corporate HR,No,5,1,3.9,38.9,Yes,28,No,Individual (AED 199/mo),199,995,Low (<AED 1K),41.2
+MM0250,2023-02-21,South African,22,Marketing,Entry (0-2 yrs),Career Switch,Word of Mouth,No,5,2,3.5,50.6,No,53,No,Individual (AED 199/mo),199,995,Low (<AED 1K),54.2
+MM0251,2024-07-07,Indian,32,Technology,Mid (3-5 yrs),Network Building,LinkedIn,No,3,2,2.6,52.2,No,28,No,Individual (AED 199/mo),199,597,Low (<AED 1K),51.3
+MM0252,2023-01-16,Filipino,29,Human Resources,Mid (3-5 yrs),Get Promoted,Google Search,No,5,4,2.2,24.5,No,27,No,Individual (AED 199/mo),199,995,Low (<AED 1K),58.6
+MM0253,2023-04-06,South African,23,Technology,Mid (3-5 yrs),Career Switch,Word of Mouth,No,1,3,4.0,78.3,Yes,18,No,Individual (AED 199/mo),199,199,Low (<AED 1K),77.3
+MM0254,2023-08-31,Filipino,23,Finance,Entry (0-2 yrs),Career Switch,LinkedIn,No,1,4,3.4,72.0,No,49,Yes,Individual (AED 199/mo),199,199,Low (<AED 1K),82.4
+MM0255,2023-06-20,Indian,27,Consulting,Mid (3-5 yrs),Skill Building,Instagram,Yes,12,3,3.4,51.2,Yes,46,Yes,Corporate (AED 399/mo),399,4788,High (AED 3-6K),64.1
+MM0256,2024-02-21,British,35,Consulting,Mid (3-5 yrs),Skill Building,LinkedIn,No,4,2,4.3,67.0,No,23,No,Individual (AED 199/mo),199,796,Low (<AED 1K),64.0
+MM0257,2024-05-12,Nigerian,27,Finance,Mid (3-5 yrs),Get Promoted,LinkedIn,Yes,11,1,4.6,60.2,Yes,30,Yes,Corporate (AED 399/mo),399,4389,High (AED 3-6K),52.5
+MM0258,2024-05-07,Lebanese,22,Finance,Entry (0-2 yrs),Career Switch,Corporate HR,Yes,9,2,3.6,65.5,No,20,Yes,Corporate (AED 399/mo),399,3591,High (AED 3-6K),60.6
+MM0259,2023-08-07,British,28,Finance,Mid (3-5 yrs),Get Promoted,LinkedIn,No,3,2,3.6,63.0,Yes,23,No,Individual (AED 199/mo),199,597,Low (<AED 1K),59.6
+MM0260,2024-02-15,Indian,27,Consulting,Entry (0-2 yrs),Get Promoted,Instagram,No,9,2,4.2,46.4,No,-5,No,Individual (AED 199/mo),199,1791,Mid (AED 1-3K),55.4
+MM0261,2023-03-02,Egyptian,22,Consulting,Mid (3-5 yrs),Skill Building,Word of Mouth,No,1,2,2.9,50.7,Yes,15,No,Individual (AED 199/mo),199,199,Low (<AED 1K),51.9
+MM0262,2023-06-18,Bangladeshi,28,Marketing,Entry (0-2 yrs),Skill Building,LinkedIn,No,6,2,4.0,55.9,No,44,No,Individual (AED 199/mo),199,1194,Mid (AED 1-3K),58.4
+MM0263,2024-01-24,Indian,28,Human Resources,Senior (6-10 yrs),Get Promoted,University Career Fair,No,6,2,4.2,61.2,No,22,No,Individual (AED 199/mo),199,1194,Mid (AED 1-3K),61.3
+MM0264,2023-01-03,British,31,Human Resources,Mid (3-5 yrs),Career Switch,LinkedIn,No,9,2,4.3,54.3,Yes,33,No,Individual (AED 199/mo),199,1791,Mid (AED 1-3K),58.9
+MM0265,2024-02-04,South African,36,Marketing,Entry (0-2 yrs),Start a Business,LinkedIn,Yes,7,1,2.4,51.3,Yes,-7,Yes,Corporate (AED 399/mo),399,2793,Mid (AED 1-3K),40.1
+MM0266,2023-09-29,Jordanian,33,Operations,Entry (0-2 yrs),Get Promoted,LinkedIn,Yes,7,3,3.3,65.0,No,38,Yes,Corporate (AED 399/mo),399,2793,Mid (AED 1-3K),69.2
+MM0267,2024-04-10,Lebanese,27,Finance,Entry (0-2 yrs),Skill Building,LinkedIn,No,1,1,3.2,36.0,Yes,8,No,Individual (AED 199/mo),199,199,Low (<AED 1K),37.2
+MM0268,2023-10-20,Jordanian,24,Finance,Senior (6-10 yrs),Career Switch,LinkedIn,Yes,7,1,3.9,38.5,No,4,No,Corporate (AED 399/mo),399,2793,Mid (AED 1-3K),41.0
+MM0269,2024-03-09,Filipino,39,Technology,Senior (6-10 yrs),Get Promoted,Corporate HR,Yes,12,2,4.1,55.3,No,50,No,Corporate (AED 399/mo),399,4788,High (AED 3-6K),58.5
+MM0270,2024-07-23,Indian,29,Finance,Mid (3-5 yrs),Career Switch,University Career Fair,No,5,2,4.8,71.9,No,51,No,Individual (AED 199/mo),199,995,Low (<AED 1K),68.0
+MM0271,2024-05-13,American,29,Marketing,Mid (3-5 yrs),Get Promoted,LinkedIn,No,6,2,3.5,54.4,No,15,Yes,Individual (AED 199/mo),199,1194,Mid (AED 1-3K),55.8
+MM0272,2023-06-08,French,28,Healthcare,Mid (3-5 yrs),Start a Business,Word of Mouth,No,6,1,3.5,59.5,No,22,Yes,Individual (AED 199/mo),199,1194,Mid (AED 1-3K),47.8
+MM0273,2023-07-14,South African,29,Finance,Senior (6-10 yrs),Get Promoted,Corporate HR,No,14,2,4.6,73.1,No,44,Yes,Individual (AED 199/mo),199,2786,Mid (AED 1-3K),67.6
+MM0274,2023-10-31,Nigerian,28,Finance,Mid (3-5 yrs),Career Switch,Corporate HR,No,18,2,4.0,67.7,No,39,Yes,Individual (AED 199/mo),199,3582,High (AED 3-6K),63.1
+MM0275,2023-08-11,British,26,Marketing,Mid (3-5 yrs),Career Switch,Instagram,Yes,6,4,4.7,79.7,No,31,No,Corporate (AED 399/mo),399,2394,Mid (AED 1-3K),90.7
+MM0276,2023-03-01,British,26,Healthcare,Mid (3-5 yrs),Get Promoted,LinkedIn,Yes,10,4,4.0,54.1,No,65,Yes,Corporate (AED 399/mo),399,3990,High (AED 3-6K),77.6
+MM0277,2024-08-16,American,28,Technology,Mid (3-5 yrs),Career Switch,LinkedIn,No,11,2,3.0,44.0,No,11,Yes,Individual (AED 199/mo),199,2189,Mid (AED 1-3K),49.6
+MM0278,2024-07-09,Egyptian,26,Marketing,Entry (0-2 yrs),Career Switch,Corporate HR,No,1,2,2.9,55.4,Yes,13,No,Individual (AED 199/mo),199,199,Low (<AED 1K),53.8
+MM0279,2023-03-04,Jordanian,26,Finance,Mid (3-5 yrs),Network Building,Corporate HR,No,2,3,2.7,46.9,Yes,66,No,Individual (AED 199/mo),199,398,Low (<AED 1K),59.6
+MM0280,2023-11-18,American,29,Finance,Mid (3-5 yrs),Get Promoted,LinkedIn,Yes,11,1,4.3,61.6,Yes,27,No,Corporate (AED 399/mo),399,4389,High (AED 3-6K),51.8
+MM0281,2023-02-28,South African,27,Real Estate,Mid (3-5 yrs),Get Promoted,Instagram,No,2,2,4.6,62.0,No,30,Yes,Individual (AED 199/mo),199,398,Low (<AED 1K),63.2
+MM0282,2023-02-21,Filipino,35,Healthcare,Entry (0-2 yrs),Start a Business,Google Search,No,2,2,5.0,59.7,No,6,No,Individual (AED 199/mo),199,398,Low (<AED 1K),63.9
+MM0283,2024-08-21,Filipino,22,Finance,Mid (3-5 yrs),Career Switch,Corporate HR,No,1,4,4.4,71.6,Yes,74,Yes,Individual (AED 199/mo),199,199,Low (<AED 1K),86.2
+MM0284,2024-05-03,Indian,33,Healthcare,Mid (3-5 yrs),Start a Business,University Career Fair,No,10,1,4.6,63.3,No,5,Yes,Individual (AED 199/mo),199,1990,Mid (AED 1-3K),53.7
+MM0285,2024-05-29,British,33,Consulting,Mid (3-5 yrs),Get Promoted,Corporate HR,No,4,2,3.4,44.2,No,8,No,Individual (AED 199/mo),199,796,Low (<AED 1K),51.3
+MM0286,2024-06-27,Indian,22,Operations,Entry (0-2 yrs),Network Building,Instagram,No,6,3,3.0,48.6,No,25,Yes,Individual (AED 199/mo),199,1194,Mid (AED 1-3K),61.4
+MM0287,2023-06-11,Pakistani,27,Marketing,Mid (3-5 yrs),Skill Building,Word of Mouth,No,2,2,4.4,53.4,No,28,No,Individual (AED 199/mo),199,398,Low (<AED 1K),59.0
+MM0288,2023-02-28,British,27,Marketing,Mid (3-5 yrs),Network Building,Word of Mouth,No,8,1,4.1,65.4,No,28,No,Individual (AED 199/mo),199,1592,Mid (AED 1-3K),52.6
+MM0289,2024-06-04,Indian,23,Marketing,Mid (3-5 yrs),Start a Business,LinkedIn,No,8,4,3.9,63.9,No,46,Yes,Individual (AED 199/mo),199,1592,Mid (AED 1-3K),81.2
+MM0290,2023-03-24,Egyptian,25,Consulting,Mid (3-5 yrs),Get Promoted,Word of Mouth,No,2,2,4.1,73.7,No,35,No,Individual (AED 199/mo),199,398,Low (<AED 1K),65.9
+MM0291,2023-07-10,Indian,24,Finance,Mid (3-5 yrs),Start a Business,Corporate HR,No,3,2,4.0,73.3,No,20,No,Individual (AED 199/mo),199,597,Low (<AED 1K),65.3
+MM0292,2023-03-12,Indian,36,Finance,Senior (6-10 yrs),Get Promoted,LinkedIn,No,2,1,4.7,60.6,Yes,29,No,Individual (AED 199/mo),199,398,Low (<AED 1K),53.0
+MM0293,2024-09-01,French,32,Technology,Entry (0-2 yrs),Get Promoted,Corporate HR,Yes,6,2,4.7,56.3,No,38,No,Corporate (AED 399/mo),399,2394,Mid (AED 1-3K),61.3
+MM0294,2023-03-11,Filipino,34,Consulting,Senior (6-10 yrs),Get Promoted,Word of Mouth,No,6,2,4.2,39.5,No,46,Yes,Individual (AED 199/mo),199,1194,Mid (AED 1-3K),52.6
+MM0295,2023-08-29,Indian,31,Finance,Mid (3-5 yrs),Get Promoted,University Career Fair,No,14,1,4.4,43.1,No,38,Yes,Individual (AED 199/mo),199,2786,Mid (AED 1-3K),44.8
+MM0296,2024-02-18,British,24,Consulting,Entry (0-2 yrs),Career Switch,LinkedIn,No,2,1,4.2,41.7,Yes,29,No,Individual (AED 199/mo),199,398,Low (<AED 1K),43.5
+MM0297,2023-05-03,American,26,Healthcare,Entry (0-2 yrs),Skill Building,LinkedIn,No,8,3,3.5,70.8,Yes,29,No,Individual (AED 199/mo),199,1592,Mid (AED 1-3K),72.3
+MM0298,2024-08-06,India,30,Finance,Entry (0-2 yrs),Get Promoted,Word of Mouth,No,8,1,4.3,57.8,No,28,No,Individual (AED 199/mo),199,1592,Mid (AED 1-3K),50.3
+MM0299,2023-09-10,Egyptian,24,Consulting,Mid (3-5 yrs),Network Building,LinkedIn,Yes,12,1,2.8,42.5,No,28,Yes,Corporate (AED 399/mo),399,4788,High (AED 3-6K),38.2
+MM0300,2024-08-15,Indian,31,Technology,Mid (3-5 yrs),Network Building,Corporate HR,No,17,2,4.5,41.8,No,18,No,Individual (AED 199/mo),199,3383,High (AED 3-6K),54.7
+MM0301,2024-08-31,Indian,28,Operations,Mid (3-5 yrs),Get Promoted,Corporate HR,No,3,3,3.0,39.0,Yes,28,Yes,Individual (AED 199/mo),199,597,Low (<AED 1K),57.6
+MM0302,2023-02-10,British,27,Finance,Mid (3-5 yrs),Get Promoted,LinkedIn,No,1,1,4.0,61.9,Yes,21,No,Individual (AED 199/mo),199,199,Low (<AED 1K),50.8
+MM0303,2024-09-26,British,31,Consulting,Mid (3-5 yrs),Get Promoted,Word of Mouth,No,6,2,3.2,51.3,Yes,35,Yes,Individual (AED 199/mo),199,1194,Mid (AED 1-3K),53.3
+MM0304,2023-03-25,Egyptian,30,Human Resources,Entry (0-2 yrs),Career Switch,Word of Mouth,No,7,1,4.2,53.9,Yes,19,No,Individual (AED 199/mo),199,1393,Mid (AED 1-3K),48.4
+MM0305,2024-03-05,Jordanian,27,Healthcare,Entry (0-2 yrs),Career Switch,Instagram,No,5,1,3.8,56.2,No,28,No,Individual (AED 199/mo),199,995,Low (<AED 1K),47.7
+MM0306,2024-08-20,Bangladeshi,33,Consulting,Mid (3-5 yrs),Get Promoted,Google Search,Yes,12,1,2.7,53.8,No,7,Yes,Corporate (AED 399/mo),399,4788,High (AED 3-6K),42.3
+MM0307,2024-08-01,British,24,Marketing,Entry (0-2 yrs),Get Promoted,Corporate HR,No,4,3,4.1,62.0,No,42,No,Individual (AED 199/mo),199,796,Low (<AED 1K),71.2
+MM0308,2024-06-19,Filipino,31,Consulting,Entry (0-2 yrs),Start a Business,Word of Mouth,No,2,1,3.4,46.5,Yes,16,No,Individual (AED 199/mo),199,398,Low (<AED 1K),42.2
+MM0309,2023-11-20,American,31,Operations,Mid (3-5 yrs),Skill Building,Corporate HR,No,3,1,4.4,59.7,No,37,No,Individual (AED 199/mo),199,597,Low (<AED 1K),51.5
+MM0310,2023-09-25,Indian,27,Marketing,Mid (3-5 yrs),Get Promoted,Instagram,No,6,2,3.8,79.5,Yes,43,Yes,Individual (AED 199/mo),199,1194,Mid (AED 1-3K),67.0
+MM0311,2023-07-29,Pakistani,30,Finance,Senior (6-10 yrs),Skill Building,Google Search,No,7,3,4.1,43.2,No,32,Yes,Individual (AED 199/mo),199,1393,Mid (AED 1-3K),63.7
+MM0312,2023-11-18,Indian,23,Healthcare,Senior (6-10 yrs),Career Switch,Word of Mouth,Yes,8,1,3.1,49.0,No,1,No,Corporate (AED 399/mo),399,3192,High (AED 3-6K),42.0
+MM0313,2023-09-02,Indian,32,Consulting,Mid (3-5 yrs),Get Promoted,Corporate HR,No,3,2,3.4,49.7,No,8,No,Individual (AED 199/mo),199,597,Low (<AED 1K),53.5
+MM0314,2023-09-29,Bangladeshi,28,Consulting,Mid (3-5 yrs),Skill Building,Google Search,No,2,1,3.5,52.7,No,25,No,Individual (AED 199/mo),199,398,Low (<AED 1K),45.1
+MM0315,2024-02-10,French,26,Finance,Mid (3-5 yrs),Get Promoted,LinkedIn,No,2,2,4.4,56.2,Yes,28,No,Individual (AED 199/mo),199,398,Low (<AED 1K),60.1
+MM0316,2023-05-15,Lebanese,33,Consulting,Mid (3-5 yrs),Get Promoted,Corporate HR,No,8,2,5.0,69.5,No,35,No,Individual (AED 199/mo),199,1592,Mid (AED 1-3K),67.8
+MM0317,2023-11-04,Pakistani,26,Technology,Entry (0-2 yrs),Start a Business,LinkedIn,Yes,8,2,3.2,55.5,No,18,Yes,Corporate (AED 399/mo),399,3192,High (AED 3-6K),55.0
+MM0318,2024-04-13,Indian,23,Consulting,Mid (3-5 yrs),Network Building,LinkedIn,Yes,11,2,4.6,96.3,No,58,No,Corporate (AED 399/mo),399,4389,High (AED 3-6K),76.9
+MM0319,2023-11-20,Indian,22,Finance,Senior (6-10 yrs),Skill Building,LinkedIn,No,7,2,2.3,45.7,No,28,Yes,Individual (AED 199/mo),199,1393,Mid (AED 1-3K),47.5
+MM0320,2023-03-16,Indian,31,Consulting,Mid (3-5 yrs),Skill Building,University Career Fair,No,12,1,3.0,32.5,Yes,16,Yes,Individual (AED 199/mo),199,2388,Mid (AED 1-3K),35.0
+MM0321,2023-01-10,British,23,Real Estate,Mid (3-5 yrs),Skill Building,Google Search,Yes,10,2,3.1,43.0,No,3,Yes,Corporate (AED 399/mo),399,3990,High (AED 3-6K),49.6
+MM0322,2024-04-14,Jordanian,36,Finance,Mid (3-5 yrs),Career Switch,Corporate HR,No,2,1,2.9,35.3,Yes,19,No,Individual (AED 199/mo),199,398,Low (<AED 1K),35.7
+MM0323,2024-09-28,Lebanese,22,Real Estate,Entry (0-2 yrs),Get Promoted,Corporate HR,No,16,3,2.7,29.4,No,13,Yes,Individual (AED 199/mo),199,3184,High (AED 3-6K),52.6
+MM0324,2024-07-30,Indian,35,Technology,Mid (3-5 yrs),Career Switch,Word of Mouth,No,3,4,4.1,65.9,Yes,33,No,Individual (AED 199/mo),199,597,Low (<AED 1K),82.8
+MM0325,2023-04-13,Bangladeshi,29,Operations,Entry (0-2 yrs),Get Promoted,Google Search,No,3,4,3.7,71.7,Yes,28,Yes,Individual (AED 199/mo),199,597,Low (<AED 1K),83.5
+MM0326,2023-03-17,Jordanian,28,Human Resources,Entry (0-2 yrs),Get Promoted,Instagram,Yes,12,3,4.1,51.5,No,32,No,Corporate (AED 399/mo),399,4788,High (AED 3-6K),67.0
+MM0327,2024-07-04,British,26,Marketing,Entry (0-2 yrs),Career Switch,Instagram,Yes,12,2,4.3,72.1,No,29,No,Corporate (AED 399/mo),399,4788,High (AED 3-6K),66.0
+MM0328,2023-08-07,Egyptian,30,Consulting,Senior (6-10 yrs),Start a Business,LinkedIn,No,1,3,4.0,67.9,Yes,18,No,Individual (AED 199/mo),199,199,Low (<AED 1K),73.2
+MM0329,2024-06-02,Pakistani,28,Operations,Entry (0-2 yrs),Start a Business,Corporate HR,No,2,1,4.3,49.3,Yes,37,No,Individual (AED 199/mo),199,398,Low (<AED 1K),46.9
+MM0330,2023-09-29,Indian,33,Technology,Mid (3-5 yrs),Skill Building,Corporate HR,No,2,2,3.8,54.2,Yes,44,Yes,Individual (AED 199/mo),199,398,Low (<AED 1K),56.9
+MM0331,2023-05-16,Filipino,29,Technology,Entry (0-2 yrs),Get Promoted,Instagram,No,9,2,3.0,62.0,No,-9,No,Individual (AED 199/mo),199,1791,Mid (AED 1-3K),56.8
+MM0332,2023-12-24,American,29,Consulting,Senior (6-10 yrs),Network Building,LinkedIn,No,11,2,4.5,71.3,No,49,Yes,Individual (AED 199/mo),199,2189,Mid (AED 1-3K),66.5
+MM0333,2023-03-12,Indian,27,Human Resources,Entry (0-2 yrs),Career Switch,Corporate HR,No,2,3,3.4,55.9,Yes,21,No,Individual (AED 199/mo),199,398,Low (<AED 1K),66.0
+MM0334,2023-09-08,Indian,28,Human Resources,Mid (3-5 yrs),Network Building,LinkedIn,No,10,1,3.1,39.8,Yes,23,Yes,Individual (AED 199/mo),199,1990,Mid (AED 1-3K),38.3
+MM0335,2024-01-14,Indian,30,Human Resources,Senior (6-10 yrs),Career Switch,Corporate HR,No,10,2,3.7,55.2,No,25,No,Individual (AED 199/mo),199,1990,Mid (AED 1-3K),56.9
+MM0336,2023-10-19,Indian,22,Technology,Senior (6-10 yrs),Network Building,University Career Fair,No,8,4,3.2,53.3,No,42,Yes,Individual (AED 199/mo),199,1592,Mid (AED 1-3K),74.1
+MM0337,2023-06-11,South African,23,Human Resources,Entry (0-2 yrs),Get Promoted,Instagram,Yes,7,1,3.5,26.0,Yes,12,Yes,Corporate (AED 399/mo),399,2793,Mid (AED 1-3K),34.4
+MM0338,2024-03-24,Jordanian,31,Finance,Senior (6-10 yrs),Network Building,LinkedIn,No,6,2,4.0,78.4,No,28,Yes,Individual (AED 199/mo),199,1194,Mid (AED 1-3K),67.4
+MM0339,2024-07-10,Pakistani,29,Marketing,Mid (3-5 yrs),Start a Business,Corporate HR,Yes,6,4,4.0,69.6,No,31,No,Corporate (AED 399/mo),399,2394,Mid (AED 1-3K),83.8
+MM0340,2023-11-06,Indian,28,Finance,Mid (3-5 yrs),Career Switch,Corporate HR,No,6,2,3.2,52.4,No,31,No,Individual (AED 199/mo),199,1194,Mid (AED 1-3K),53.8
+MM0341,2024-09-18,Pakistani,29,Technology,Entry (0-2 yrs),Get Promoted,Word of Mouth,No,3,2,3.5,51.4,No,41,No,Individual (AED 199/mo),199,597,Low (<AED 1K),54.6
+MM0342,2024-06-25,Pakistani,30,Technology,Entry (0-2 yrs),Start a Business,University Career Fair,No,4,1,4.6,52.8,No,36,No,Individual (AED 199/mo),199,796,Low (<AED 1K),49.5
+MM0343,2023-01-09,Indian,26,Technology,Mid (3-5 yrs),Get Promoted,LinkedIn,No,6,2,4.1,57.3,No,65,No,Individual (AED 199/mo),199,1194,Mid (AED 1-3K),59.3
+MM0344,2024-07-21,Pakistani,25,Consulting,Mid (3-5 yrs),Network Building,Word of Mouth,Yes,7,3,5.0,59.0,No,42,No,Corporate (AED 399/mo),399,2793,Mid (AED 1-3K),73.6
+MM0345,2023-11-03,Filipino,29,Technology,Mid (3-5 yrs),Skill Building,Corporate HR,Yes,7,2,4.6,88.0,No,50,Yes,Corporate (AED 399/mo),399,2793,Mid (AED 1-3K),73.6
+MM0346,2023-04-17,Egyptian,25,Technology,Mid (3-5 yrs),Get Promoted,Google Search,No,2,2,4.6,52.9,No,34,No,Individual (AED 199/mo),199,398,Low (<AED 1K),59.6
+MM0347,2023-05-18,Egyptian,30,Finance,Mid (3-5 yrs),Get Promoted,LinkedIn,Yes,12,1,2.8,28.3,Yes,26,No,Corporate (AED 399/mo),399,4788,High (AED 3-6K),32.5
+MM0348,2023-09-28,Indian,22,Technology,Entry (0-2 yrs),Career Switch,Corporate HR,No,10,1,4.3,52.2,No,22,No,Individual (AED 199/mo),199,1990,Mid (AED 1-3K),48.1
+MM0349,2023-04-29,Filipino,33,Finance,Mid (3-5 yrs),Network Building,Word of Mouth,No,1,4,3.8,78.5,No,28,No,Individual (AED 199/mo),199,199,Low (<AED 1K),86.6
+MM0350,2023-04-20,Egyptian,30,Finance,Entry (0-2 yrs),Get Promoted,Instagram,No,16,2,3.4,50.9,No,43,Yes,Individual (AED 199/mo),199,3184,High (AED 3-6K),54.0
+MM0351,2024-07-20,British,30,Consulting,Mid (3-5 yrs),Get Promoted,LinkedIn,No,2,2,3.9,44.4,Yes,21,No,Individual (AED 199/mo),199,398,Low (<AED 1K),53.4
+MM0352,2023-06-09,South African,32,Consulting,Mid (3-5 yrs),Get Promoted,Google Search,Yes,15,1,4.5,71.5,No,3,No,Corporate (AED 399/mo),399,5985,High (AED 3-6K),56.6
+MM0353,2023-10-06,Lebanese,35,Consulting,Senior (6-10 yrs),Skill Building,LinkedIn,No,7,2,4.2,67.7,No,24,Yes,Individual (AED 199/mo),199,1393,Mid (AED 1-3K),63.9
+MM0354,2023-10-16,Indian,33,Marketing,Entry (0-2 yrs),Network Building,LinkedIn,No,9,4,3.2,63.8,No,51,Yes,Individual (AED 199/mo),199,1791,Mid (AED 1-3K),78.3
+MM0355,2024-09-11,Indian,22,Technology,Entry (0-2 yrs),Start a Business,LinkedIn,Yes,13,2,4.3,68.8,Yes,53,Yes,Corporate (AED 399/mo),399,5187,High (AED 3-6K),64.7
+MM0356,2023-08-04,Egyptian,23,Operations,Entry (0-2 yrs),Get Promoted,Google Search,No,2,1,3.4,69.7,Yes,15,No,Individual (AED 199/mo),199,398,Low (<AED 1K),51.5
+MM0357,2023-12-18,Indian,26,Marketing,Entry (0-2 yrs),Network Building,Word of Mouth,Yes,10,2,4.0,79.9,No,49,Yes,Corporate (AED 399/mo),399,3990,High (AED 3-6K),68.0
+MM0358,2023-07-28,Egyptian,29,Marketing,Entry (0-2 yrs),Network Building,Corporate HR,No,1,3,3.6,51.3,Yes,15,No,Individual (AED 199/mo),199,199,Low (<AED 1K),64.9
+MM0359,2023-09-28,Nigerian,31,Finance,Senior (6-10 yrs),Skill Building,LinkedIn,No,7,2,3.6,69.4,No,19,No,Individual (AED 199/mo),199,1393,Mid (AED 1-3K),62.2
+MM0360,2024-06-01,British,26,Technology,Entry (0-2 yrs),Start a Business,Word of Mouth,Yes,18,3,4.3,70.4,No,38,Yes,Corporate (AED 399/mo),399,7182,Premium (AED 6K+),75.4
+MM0361,2024-05-15,Filipino,29,Technology,Entry (0-2 yrs),Career Switch,Word of Mouth,No,6,2,3.1,52.2,Yes,28,No,Individual (AED 199/mo),199,1194,Mid (AED 1-3K),53.3
+MM0362,2023-09-15,Egyptian,25,Technology,Mid (3-5 yrs),Career Switch,Corporate HR,No,2,3,5.0,58.1,Yes,51,No,Individual (AED 199/mo),199,398,Low (<AED 1K),73.2
+MM0363,2023-02-22,Pakistani,26,Marketing,Mid (3-5 yrs),Network Building,Google Search,No,11,2,2.5,38.3,Yes,25,Yes,Individual (AED 199/mo),199,2189,Mid (AED 1-3K),45.3
+MM0364,2023-04-05,British,23,Marketing,Mid (3-5 yrs),Get Promoted,LinkedIn,No,1,1,3.4,37.7,Yes,7,Yes,Individual (AED 199/mo),199,199,Low (<AED 1K),38.7
+MM0365,2024-03-09,Nigerian,25,Consulting,Entry (0-2 yrs),Network Building,Word of Mouth,No,1,2,4.1,67.5,Yes,33,No,Individual (AED 199/mo),199,199,Low (<AED 1K),63.4
+MM0366,2023-10-11,Filipino,23,Human Resources,Mid (3-5 yrs),Network Building,LinkedIn,Yes,7,1,4.2,66.1,Yes,21,No,Corporate (AED 399/mo),399,2793,Mid (AED 1-3K),53.2
+MM0367,2023-02-15,Bangladeshi,25,Human Resources,Entry (0-2 yrs),Career Switch,Word of Mouth,No,4,4,3.7,43.7,No,33,No,Individual (AED 199/mo),199,796,Low (<AED 1K),72.3
+MM0368,2023-01-04,Nigerian,33,Consulting,Entry (0-2 yrs),Network Building,LinkedIn,Yes,4,3,3.8,60.4,Yes,36,No,Corporate (AED 399/mo),399,1596,Mid (AED 1-3K),69.4
+MM0369,2023-12-08,Indian,25,Healthcare,Senior (6-10 yrs),Get Promoted,LinkedIn,No,3,2,4.1,70.4,No,28,No,Individual (AED 199/mo),199,597,Low (<AED 1K),64.6
+MM0370,2023-05-14,Indian,39,Finance,Entry (0-2 yrs),Get Promoted,Instagram,No,1,2,3.6,51.3,No,23,Yes,Individual (AED 199/mo),199,199,Low (<AED 1K),54.9
+MM0371,2023-09-26,Indian,30,Finance,Mid (3-5 yrs),Skill Building,Word of Mouth,No,10,1,4.8,69.9,Yes,28,No,Individual (AED 199/mo),199,1990,Mid (AED 1-3K),57.2
+MM0372,2023-06-15,Indian,29,Finance,Mid (3-5 yrs),Start a Business,LinkedIn,No,4,3,4.4,71.3,No,45,No,Individual (AED 199/mo),199,796,Low (<AED 1K),76.1
+MM0373,2024-03-28,Indian,25,Consulting,Entry (0-2 yrs),Career Switch,Corporate HR,Yes,11,2,4.4,66.2,No,28,Yes,Corporate (AED 399/mo),399,4389,High (AED 3-6K),64.1
+MM0374,2024-07-18,Lebanese,31,Operations,Senior (6-10 yrs),Get Promoted,Instagram,No,7,1,3.1,39.5,No,30,No,Individual (AED 199/mo),199,1393,Mid (AED 1-3K),38.2
+MM0375,2024-03-13,Indian,26,Finance,Entry (0-2 yrs),Skill Building,LinkedIn,Yes,7,2,3.7,42.2,No,9,No,Corporate (AED 399/mo),399,2793,Mid (AED 1-3K),51.7
+MM0376,2024-07-28,Filipino,29,Operations,Mid (3-5 yrs),Skill Building,Corporate HR,Yes,7,1,3.6,37.0,No,5,Yes,Corporate (AED 399/mo),399,2793,Mid (AED 1-3K),39.2
+MM0377,2023-01-10,French,39,Finance,Senior (6-10 yrs),Skill Building,LinkedIn,Yes,13,2,3.1,54.3,No,28,Yes,Corporate (AED 399/mo),399,5187,High (AED 3-6K),54.1
+MM0378,2023-04-25,Indian,28,Healthcare,Mid (3-5 yrs),Career Switch,Instagram,No,9,2,4.1,59.4,Yes,15,No,Individual (AED 199/mo),199,1791,Mid (AED 1-3K),60.2
+MM0379,2023-03-19,French,33,Technology,Senior (6-10 yrs),Get Promoted,Word of Mouth,Yes,9,1,3.4,44.4,No,-6,No,Corporate (AED 399/mo),399,3591,High (AED 3-6K),41.4
+MM0380,2023-06-02,Indian,26,Finance,Entry (0-2 yrs),Get Promoted,LinkedIn,Yes,10,4,4.3,67.4,No,64,Yes,Corporate (AED 399/mo),399,3990,High (AED 3-6K),84.2
+MM0381,2024-07-12,Indian,28,Marketing,Mid (3-5 yrs),Network Building,LinkedIn,Yes,7,1,3.1,39.1,No,-20,Yes,Corporate (AED 399/mo),399,2793,Mid (AED 1-3K),38.0
+MM0382,2023-02-06,Lebanese,36,Technology,Entry (0-2 yrs),Get Promoted,Instagram,Yes,13,1,5.0,75.5,No,28,Yes,Corporate (AED 399/mo),399,5187,High (AED 3-6K),60.2
+MM0383,2024-01-14,Egyptian,26,Technology,Mid (3-5 yrs),Career Switch,Google Search,No,6,1,3.2,40.0,No,44,Yes,Individual (AED 199/mo),199,1194,Mid (AED 1-3K),38.8
+MM0384,2024-08-19,South African,36,Technology,Senior (6-10 yrs),Start a Business,Word of Mouth,No,6,3,4.0,49.6,No,16,No,Individual (AED 199/mo),199,1194,Mid (AED 1-3K),65.8
+MM0385,2024-07-19,Jordanian,31,Human Resources,Entry (0-2 yrs),Career Switch,Word of Mouth,No,3,2,4.4,70.2,No,4,No,Individual (AED 199/mo),199,597,Low (<AED 1K),65.7
+MM0386,2023-06-01,American,26,Marketing,Mid (3-5 yrs),Start a Business,Word of Mouth,No,11,2,3.4,48.8,No,1,No,Individual (AED 199/mo),199,2189,Mid (AED 1-3K),53.1
+MM0387,2024-03-16,Indian,31,Technology,Entry (0-2 yrs),Skill Building,LinkedIn,Yes,10,1,4.4,58.1,Yes,37,No,Corporate (AED 399/mo),399,3990,High (AED 3-6K),50.8
+MM0388,2023-05-11,Indian,32,Consulting,Mid (3-5 yrs),Network Building,Instagram,No,1,1,2.9,55.9,No,25,No,Individual (AED 199/mo),199,199,Low (<AED 1K),44.0
+MM0389,2023-02-12,American,31,Consulting,Mid (3-5 yrs),Get Promoted,Corporate HR,No,3,2,4.8,67.4,No,30,Yes,Individual (AED 199/mo),199,597,Low (<AED 1K),66.2
+MM0390,2023-11-12,American,22,Technology,Senior (6-10 yrs),Career Switch,LinkedIn,Yes,7,3,3.8,63.5,No,48,Yes,Corporate (AED 399/mo),399,2793,Mid (AED 1-3K),70.6
+MM0391,2024-01-09,Bangladeshi,26,Technology,Mid (3-5 yrs),Skill Building,LinkedIn,Yes,12,3,3.4,44.0,No,54,No,Corporate (AED 399/mo),399,4788,High (AED 3-6K),61.2
+MM0392,2023-02-10,Pakistani,28,Finance,Entry (0-2 yrs),Network Building,LinkedIn,Yes,12,1,3.6,46.0,No,42,Yes,Corporate (AED 399/mo),399,4788,High (AED 3-6K),42.8
+MM0393,2024-01-02,Filipino,28,Finance,Entry (0-2 yrs),Skill Building,Instagram,Yes,7,2,4.4,68.9,No,30,Yes,Corporate (AED 399/mo),399,2793,Mid (AED 1-3K),65.2
+MM0394,2023-08-04,American,31,Consulting,Entry (0-2 yrs),Career Switch,University Career Fair,No,5,4,3.4,45.2,No,9,No,Individual (AED 199/mo),199,995,Low (<AED 1K),71.7
+MM0395,2023-09-13,Filipino,29,Finance,Entry (0-2 yrs),Network Building,LinkedIn,No,2,2,3.3,51.6,No,10,No,Individual (AED 199/mo),199,398,Low (<AED 1K),53.8
+MM0396,2023-04-16,Nigerian,23,Marketing,Entry (0-2 yrs),Network Building,Word of Mouth,Yes,10,3,3.6,59.2,No,29,No,Corporate (AED 399/mo),399,3990,High (AED 3-6K),68.1
+MM0397,2023-12-29,South African,30,Consulting,Senior (6-10 yrs),Skill Building,LinkedIn,Yes,10,1,3.0,41.4,No,6,No,Corporate (AED 399/mo),399,3990,High (AED 3-6K),38.6
+MM0398,2024-07-27,Pakistani,31,Finance,Mid (3-5 yrs),Network Building,University Career Fair,No,2,4,5.0,90.4,Yes,57,No,Individual (AED 199/mo),199,398,Low (<AED 1K),96.2
+MM0399,2024-02-21,American,31,Marketing,Mid (3-5 yrs),Network Building,LinkedIn,Yes,7,3,3.4,59.1,No,28,Yes,Corporate (AED 399/mo),399,2793,Mid (AED 1-3K),67.2
+MM0400,2024-09-27,American,33,Technology,Entry (0-2 yrs),Skill Building,Instagram,No,3,4,4.4,87.6,Yes,73,No,Individual (AED 199/mo),199,597,Low (<AED 1K),92.6
+MM0401,2023-06-08,Indian,32,Healthcare,Senior (6-10 yrs),Career Switch,Corporate HR,No,1,2,3.9,46.9,Yes,26,No,Individual (AED 199/mo),199,199,Low (<AED 1K),54.4
+MM0402,2023-08-31,Nigerian,30,Marketing,Mid (3-5 yrs),Get Promoted,Corporate HR,Yes,12,2,3.1,48.6,No,37,Yes,Corporate (AED 399/mo),399,4788,High (AED 3-6K),51.8
+MM0403,2023-06-16,British,28,Human Resources,Entry (0-2 yrs),Career Switch,Instagram,Yes,5,4,3.8,66.4,No,53,No,Corporate (AED 399/mo),399,1995,Mid (AED 1-3K),81.8
+MM0404,2023-07-01,French,22,Marketing,Mid (3-5 yrs),Get Promoted,LinkedIn,No,18,1,4.3,45.9,No,28,Yes,Individual (AED 199/mo),199,3582,High (AED 3-6K),45.6
+MM0405,2024-02-27,Filipino,30,Finance,Mid (3-5 yrs),Get Promoted,Instagram,No,3,2,3.7,64.0,No,40,No,Individual (AED 199/mo),199,597,Low (<AED 1K),60.4
+MM0406,2023-01-26,South African,29,Consulting,Entry (0-2 yrs),Career Switch,LinkedIn,No,3,3,4.6,93.4,Yes,47,No,Individual (AED 199/mo),199,597,Low (<AED 1K),85.8
+MM0407,2023-07-03,Filipino,30,Healthcare,Mid (3-5 yrs),Get Promoted,LinkedIn,No,3,3,4.5,68.8,No,75,No,Individual (AED 199/mo),199,597,Low (<AED 1K),75.5
+MM0408,2023-12-07,Indian,23,Consulting,Mid (3-5 yrs),Career Switch,Instagram,Yes,9,4,4.4,77.9,No,32,No,Corporate (AED 399/mo),399,3591,High (AED 3-6K),88.8
+MM0409,2024-02-26,Nigerian,24,Human Resources,Entry (0-2 yrs),Network Building,LinkedIn,No,3,1,3.5,47.8,No,7,No,Individual (AED 199/mo),199,597,Low (<AED 1K),43.1
+MM0410,2023-09-12,Indian,33,Operations,Senior (6-10 yrs),Start a Business,LinkedIn,No,11,3,3.0,43.9,Yes,28,Yes,Individual (AED 199/mo),199,2189,Mid (AED 1-3K),59.6
+MM0411,2023-10-01,Filipino,28,Finance,Senior (6-10 yrs),Career Switch,Word of Mouth,Yes,13,3,3.4,37.6,No,40,Yes,Corporate (AED 399/mo),399,5187,High (AED 3-6K),58.6
+MM0412,2023-06-13,Bangladeshi,31,Finance,Mid (3-5 yrs),Start a Business,University Career Fair,No,4,1,3.9,44.7,No,38,No,Individual (AED 199/mo),199,796,Low (<AED 1K),43.5
+MM0413,2023-04-21,Bangladeshi,29,Consulting,Mid (3-5 yrs),Get Promoted,Word of Mouth,Yes,6,2,4.2,46.5,No,31,Yes,Corporate (AED 399/mo),399,2394,Mid (AED 1-3K),55.4
+MM0414,2024-01-27,British,29,Technology,Mid (3-5 yrs),Get Promoted,LinkedIn,No,18,1,2.3,49.6,No,28,No,Individual (AED 199/mo),199,3582,High (AED 3-6K),39.0
+MM0415,2023-02-09,Egyptian,32,Human Resources,Mid (3-5 yrs),Career Switch,LinkedIn,Yes,15,2,3.8,54.4,No,28,No,Corporate (AED 399/mo),399,5985,High (AED 3-6K),57.0
+MM0416,2024-04-26,Pakistani,26,Operations,Mid (3-5 yrs),Get Promoted,University Career Fair,No,1,4,3.9,63.3,Yes,60,No,Individual (AED 199/mo),199,199,Low (<AED 1K),80.9
+MM0417,2023-08-16,Indian,29,Technology,Entry (0-2 yrs),Network Building,LinkedIn,No,6,2,3.6,62.1,No,-3,Yes,Individual (AED 199/mo),199,1194,Mid (AED 1-3K),59.2
+MM0418,2023-07-24,Filipino,27,Finance,Mid (3-5 yrs),Skill Building,LinkedIn,No,5,3,4.7,60.2,No,46,No,Individual (AED 199/mo),199,995,Low (<AED 1K),72.9
+MM0419,2024-04-16,Lebanese,27,Human Resources,Senior (6-10 yrs),Career Switch,Word of Mouth,Yes,11,4,4.1,61.5,Yes,27,Yes,Corporate (AED 399/mo),399,4389,High (AED 3-6K),81.0
+MM0420,2023-12-25,American,27,Technology,Mid (3-5 yrs),Career Switch,Word of Mouth,No,3,2,4.7,67.1,No,27,No,Individual (AED 199/mo),199,597,Low (<AED 1K),65.6
+MM0421,2023-11-09,American,29,Human Resources,Entry (0-2 yrs),Get Promoted,Word of Mouth,No,8,3,3.6,68.5,No,22,No,Individual (AED 199/mo),199,1592,Mid (AED 1-3K),71.8
+MM0422,2023-08-22,American,27,Technology,Mid (3-5 yrs),Get Promoted,LinkedIn,No,2,2,4.5,69.0,Yes,47,No,Individual (AED 199/mo),199,398,Low (<AED 1K),65.6
+MM0423,2023-08-17,Indian,34,Consulting,Entry (0-2 yrs),Career Switch,LinkedIn,No,9,3,4.9,76.3,No,50,Yes,Individual (AED 199/mo),199,1791,Mid (AED 1-3K),80.1
+MM0424,2023-01-25,Pakistani,25,Finance,Entry (0-2 yrs),Get Promoted,University Career Fair,No,6,1,4.7,62.2,Yes,7,Yes,Individual (AED 199/mo),199,1194,Mid (AED 1-3K),53.7
+MM0425,2023-07-17,Indian,28,Consulting,Entry (0-2 yrs),Network Building,LinkedIn,No,3,4,3.0,60.0,Yes,53,No,Individual (AED 199/mo),199,597,Low (<AED 1K),76.0
+MM0426,2024-02-13,British,27,Marketing,Entry (0-2 yrs),Start a Business,Word of Mouth,No,4,1,3.6,50.2,No,-5,Yes,Individual (AED 199/mo),199,796,Low (<AED 1K),44.5
+MM0427,2023-12-03,Pakistani,34,Marketing,Mid (3-5 yrs),Get Promoted,Corporate HR,No,2,2,3.6,42.9,Yes,28,No,Individual (AED 199/mo),199,398,Low (<AED 1K),51.6
+MM0428,2023-10-13,South African,29,Finance,Mid (3-5 yrs),Start a Business,Word of Mouth,No,7,3,4.1,64.7,No,28,Yes,Individual (AED 199/mo),199,1393,Mid (AED 1-3K),72.3
+MM0429,2023-03-13,Filipino,33,Consulting,Entry (0-2 yrs),Get Promoted,LinkedIn,No,4,2,4.3,50.9,No,27,No,Individual (AED 199/mo),199,796,Low (<AED 1K),57.6
+MM0430,2023-10-13,Indian,23,Operations,Senior (6-10 yrs),Get Promoted,LinkedIn,No,2,2,3.2,49.2,Yes,29,No,Individual (AED 199/mo),199,398,Low (<AED 1K),52.5
+MM0431,2023-12-26,Indian,30,Finance,Senior (6-10 yrs),Career Switch,Word of Mouth,No,5,2,3.8,50.8,Yes,35,No,Individual (AED 199/mo),199,995,Low (<AED 1K),55.5
+MM0432,2024-06-05,American,32,Finance,Senior (6-10 yrs),Skill Building,Google Search,No,18,3,2.4,69.2,Yes,44,Yes,Individual (AED 199/mo),199,3582,High (AED 3-6K),67.3
+MM0433,2024-02-14,Egyptian,29,Finance,Entry (0-2 yrs),Start a Business,Google Search,Yes,8,1,4.8,62.2,No,26,No,Corporate (AED 399/mo),399,3192,High (AED 3-6K),54.1
+MM0434,2024-07-03,Indian,33,Consulting,Mid (3-5 yrs),Skill Building,LinkedIn,No,13,1,3.4,31.8,No,18,Yes,Individual (AED 199/mo),199,2587,Mid (AED 1-3K),36.3
+MM0435,2023-12-06,Indian,26,Consulting,Senior (6-10 yrs),Get Promoted,LinkedIn,No,3,1,3.8,49.3,No,11,No,Individual (AED 199/mo),199,597,Low (<AED 1K),44.9
+MM0436,2023-01-29,Jordanian,34,Marketing,Mid (3-5 yrs),Skill Building,Google Search,No,1,2,3.6,58.4,Yes,28,No,Individual (AED 199/mo),199,199,Low (<AED 1K),57.8
+MM0437,2023-04-29,Indian,38,Finance,Entry (0-2 yrs),Career Switch,Corporate HR,No,2,1,4.6,76.9,Yes,32,Yes,Individual (AED 199/mo),199,398,Low (<AED 1K),59.2
+MM0438,2023-09-25,French,27,Technology,Entry (0-2 yrs),Network Building,Google Search,No,3,2,1.8,25.7,No,6,No,Individual (AED 199/mo),199,597,Low (<AED 1K),37.5
+MM0439,2023-07-02,Jordanian,27,Marketing,Mid (3-5 yrs),Get Promoted,LinkedIn,No,2,2,3.8,39.8,Yes,0,Yes,Individual (AED 199/mo),199,398,Low (<AED 1K),51.1
+MM0440,2024-08-17,Indian,34,Marketing,Senior (6-10 yrs),Get Promoted,Word of Mouth,No,1,1,3.7,57.6,No,21,Yes,Individual (AED 199/mo),199,199,Low (<AED 1K),47.8
+MM0441,2023-09-29,Indian,35,Real Estate,Mid (3-5 yrs),Skill Building,Corporate HR,No,13,2,3.5,38.2,Yes,30,Yes,Individual (AED 199/mo),199,2587,Mid (AED 1-3K),49.3
+MM0442,2023-02-09,Bangladeshi,26,Finance,Mid (3-5 yrs),Skill Building,Word of Mouth,No,10,3,5.0,70.6,Yes,39,Yes,Individual (AED 199/mo),199,1990,Mid (AED 1-3K),78.2
+MM0443,2023-04-22,Filipino,27,Consulting,Entry (0-2 yrs),Career Switch,Instagram,No,7,1,3.2,40.8,No,-7,Yes,Individual (AED 199/mo),199,1393,Mid (AED 1-3K),39.1
+MM0444,2024-09-02,Filipino,27,Technology,Mid (3-5 yrs),Skill Building,LinkedIn,No,1,2,4.3,60.9,No,55,No,Individual (AED 199/mo),199,199,Low (<AED 1K),61.6
+MM0445,2024-03-20,French,23,Technology,Senior (6-10 yrs),Career Switch,Word of Mouth,Yes,9,2,4.0,64.9,No,37,Yes,Corporate (AED 399/mo),399,3591,High (AED 3-6K),62.0
+MM0446,2023-12-20,Nigerian,25,Consulting,Mid (3-5 yrs),Skill Building,LinkedIn,Yes,8,2,4.7,59.6,Yes,33,Yes,Corporate (AED 399/mo),399,3192,High (AED 3-6K),62.6
+MM0447,2023-11-18,Bangladeshi,24,Consulting,Mid (3-5 yrs),Network Building,Instagram,No,7,3,3.3,51.9,No,15,Yes,Individual (AED 199/mo),199,1393,Mid (AED 1-3K),64.0
+MM0448,2024-03-22,American,25,Real Estate,Senior (6-10 yrs),Network Building,University Career Fair,Yes,12,2,3.3,49.5,Yes,10,Yes,Corporate (AED 399/mo),399,4788,High (AED 3-6K),53.0
+MM0449,2024-09-12,Filipino,28,Finance,Entry (0-2 yrs),Skill Building,Instagram,No,3,2,4.6,66.7,No,55,No,Individual (AED 199/mo),199,597,Low (<AED 1K),65.1
+MM0450,2024-06-07,Indian,29,Finance,Mid (3-5 yrs),Get Promoted,Corporate HR,No,1,1,4.1,55.2,No,23,No,Individual (AED 199/mo),199,199,Low (<AED 1K),48.5
+MM0451,2023-04-29,American,35,Consulting,Entry (0-2 yrs),Career Switch,LinkedIn,No,4,2,2.7,46.8,No,8,No,Individual (AED 199/mo),199,796,Low (<AED 1K),49.5
+MM0452,2024-01-30,British,25,Marketing,Mid (3-5 yrs),Network Building,Word of Mouth,No,3,2,3.4,59.2,No,31,Yes,Individual (AED 199/mo),199,597,Low (<AED 1K),57.3
+MM0453,2024-08-13,Pakistani,32,Technology,Mid (3-5 yrs),Get Promoted,University Career Fair,Yes,14,1,4.1,58.1,No,8,No,Corporate (AED 399/mo),399,5586,High (AED 3-6K),49.6
+MM0454,2023-07-14,Nigerian,28,Finance,Mid (3-5 yrs),Get Promoted,LinkedIn,No,5,2,4.4,67.3,No,56,No,Individual (AED 199/mo),199,995,Low (<AED 1K),64.5
+MM0455,2023-09-18,Indian,28,Finance,Mid (3-5 yrs),Get Promoted,LinkedIn,No,7,2,3.3,43.8,No,63,No,Individual (AED 199/mo),199,1393,Mid (AED 1-3K),50.7
+MM0456,2023-02-15,Pakistani,31,Operations,Mid (3-5 yrs),Career Switch,Instagram,No,1,2,1.8,32.1,No,1,No,Individual (AED 199/mo),199,199,Low (<AED 1K),40.0
+MM0457,2024-03-22,Indian,24,Finance,Senior (6-10 yrs),Skill Building,LinkedIn,Yes,11,2,4.2,65.2,No,22,Yes,Corporate (AED 399/mo),399,4389,High (AED 3-6K),62.9
+MM0458,2023-01-02,Pakistani,30,Technology,Mid (3-5 yrs),Career Switch,Corporate HR,No,18,4,2.9,62.1,No,28,Yes,Individual (AED 199/mo),199,3582,High (AED 3-6K),76.4
+MM0459,2024-06-16,Indian,29,Finance,Entry (0-2 yrs),Skill Building,Google Search,Yes,12,3,2.4,36.9,Yes,1,No,Corporate (AED 399/mo),399,4788,High (AED 3-6K),54.4
+MM0460,2024-07-05,Indian,30,Technology,Mid (3-5 yrs),Get Promoted,Instagram,Yes,9,2,1.8,25.0,Yes,-12,Yes,Corporate (AED 399/mo),399,3591,High (AED 3-6K),37.2
+MM0461,2023-07-21,Indian,30,Finance,Mid (3-5 yrs),Career Switch,LinkedIn,Yes,6,3,4.4,62.1,Yes,46,Yes,Corporate (AED 399/mo),399,2394,Mid (AED 1-3K),72.4
+MM0462,2024-01-08,Egyptian,38,Marketing,Entry (0-2 yrs),Get Promoted,Instagram,Yes,13,3,3.9,67.2,No,34,No,Corporate (AED 399/mo),399,5187,High (AED 3-6K),72.5
+MM0463,2024-03-17,Jordanian,26,Finance,Senior (6-10 yrs),Career Switch,Corporate HR,No,3,2,3.6,63.5,No,5,No,Individual (AED 199/mo),199,597,Low (<AED 1K),59.8
+MM0464,2023-03-13,Egyptian,26,Human Resources,Senior (6-10 yrs),Get Promoted,LinkedIn,Yes,14,2,4.8,63.5,No,33,Yes,Corporate (AED 399/mo),399,5586,High (AED 3-6K),64.6
+MM0465,2023-12-05,Bangladeshi,26,Finance,Entry (0-2 yrs),Skill Building,Word of Mouth,No,3,2,4.2,69.5,No,39,No,Individual (AED 199/mo),199,597,Low (<AED 1K),64.6
+MM0466,2024-09-30,Filipino,26,Marketing,Senior (6-10 yrs),Career Switch,Word of Mouth,No,3,4,4.9,80.0,No,66,No,Individual (AED 199/mo),199,597,Low (<AED 1K),91.6
+MM0467,2023-11-18,Indian,26,Operations,Entry (0-2 yrs),Network Building,Word of Mouth,No,6,2,2.8,42.4,No,-10,Yes,Individual (AED 199/mo),199,1194,Mid (AED 1-3K),48.2
+MM0468,2023-05-08,South African,33,Consulting,Entry (0-2 yrs),Career Switch,LinkedIn,Yes,9,1,3.8,48.5,No,16,Yes,Corporate (AED 399/mo),399,3591,High (AED 3-6K),44.6
+MM0469,2023-11-04,Indian,34,Marketing,Entry (0-2 yrs),Career Switch,Corporate HR,No,10,3,2.7,54.9,Yes,6,Yes,Individual (AED 199/mo),199,1990,Mid (AED 1-3K),62.8
+MM0470,2024-06-03,Bangladeshi,26,Technology,Senior (6-10 yrs),Skill Building,LinkedIn,No,11,2,3.6,56.5,Yes,39,Yes,Individual (AED 199/mo),199,2189,Mid (AED 1-3K),57.0
+MM0471,2023-11-13,Indian,25,Technology,Mid (3-5 yrs),Get Promoted,LinkedIn,No,1,1,3.6,71.0,Yes,28,No,Individual (AED 199/mo),199,199,Low (<AED 1K),52.8
+MM0472,2024-02-23,Bangladeshi,30,Consulting,Entry (0-2 yrs),Career Switch,Google Search,Yes,10,2,4.2,51.9,No,18,Yes,Corporate (AED 399/mo),399,3990,High (AED 3-6K),57.6
+MM0473,2023-12-01,Indian,26,Real Estate,Mid (3-5 yrs),Get Promoted,Corporate HR,No,4,2,3.8,60.8,Yes,16,No,Individual (AED 199/mo),199,796,Low (<AED 1K),59.5
+MM0474,2024-02-17,South African,31,Consulting,Mid (3-5 yrs),Get Promoted,LinkedIn,No,18,3,4.2,60.1,Yes,35,Yes,Individual (AED 199/mo),199,3582,High (AED 3-6K),70.8
+MM0475,2023-10-30,British,29,Marketing,Entry (0-2 yrs),Network Building,LinkedIn,No,4,1,4.3,47.9,No,-10,No,Individual (AED 199/mo),199,796,Low (<AED 1K),46.4
+MM0476,2024-07-21,Bangladeshi,22,Consulting,Senior (6-10 yrs),Get Promoted,LinkedIn,Yes,3,3,5.0,74.9,No,55,Yes,Corporate (AED 399/mo),399,1197,Mid (AED 1-3K),80.0
+MM0477,2023-05-11,Indian,35,Marketing,Senior (6-10 yrs),Network Building,LinkedIn,No,8,2,3.6,54.6,No,28,Yes,Individual (AED 199/mo),199,1592,Mid (AED 1-3K),56.2
+MM0478,2023-07-16,British,36,Finance,Mid (3-5 yrs),Network Building,LinkedIn,Yes,7,1,3.1,71.4,No,28,Yes,Corporate (AED 399/mo),399,2793,Mid (AED 1-3K),51.0
+MM0479,2024-03-06,Bangladeshi,26,Marketing,Senior (6-10 yrs),Get Promoted,LinkedIn,Yes,6,4,4.0,66.2,No,33,Yes,Corporate (AED 399/mo),399,2394,Mid (AED 1-3K),82.5
+MM0480,2024-01-24,British,27,Healthcare,Mid (3-5 yrs),Start a Business,Instagram,No,18,2,3.2,37.1,No,12,Yes,Individual (AED 199/mo),199,3582,High (AED 3-6K),47.6
+MM0481,2023-06-28,Egyptian,30,Finance,Senior (6-10 yrs),Get Promoted,Corporate HR,Yes,4,1,4.8,65.3,No,5,No,Corporate (AED 399/mo),399,1596,Mid (AED 1-3K),55.3
+MM0482,2024-09-22,Lebanese,30,Consulting,Mid (3-5 yrs),Start a Business,Word of Mouth,Yes,5,2,3.6,32.5,No,10,No,Corporate (AED 399/mo),399,1995,Mid (AED 1-3K),47.4
+MM0483,2024-08-05,Pakistani,31,Finance,Mid (3-5 yrs),Career Switch,Word of Mouth,Yes,7,3,3.4,54.9,No,16,Yes,Corporate (AED 399/mo),399,2793,Mid (AED 1-3K),65.6
+MM0484,2023-11-05,Egyptian,37,Marketing,Entry (0-2 yrs),Skill Building,LinkedIn,No,3,2,3.5,52.2,No,39,No,Individual (AED 199/mo),199,597,Low (<AED 1K),54.9
+MM0485,2024-02-20,Egyptian,28,Finance,Senior (6-10 yrs),Get Promoted,University Career Fair,No,1,1,4.3,64.5,No,12,No,Individual (AED 199/mo),199,199,Low (<AED 1K),53.0
+MM0486,2024-07-15,Nigerian,25,Marketing,Mid (3-5 yrs),Get Promoted,Corporate HR,No,3,1,3.7,59.1,No,18,No,Individual (AED 199/mo),199,597,Low (<AED 1K),48.4
+MM0487,2023-01-01,Indian,23,Human Resources,Entry (0-2 yrs),Skill Building,Corporate HR,No,2,1,3.4,40.8,No,8,No,Individual (AED 199/mo),199,398,Low (<AED 1K),39.9
+MM0488,2023-11-08,Indian,26,Technology,Entry (0-2 yrs),Skill Building,Corporate HR,Yes,10,3,5.0,73.5,No,30,Yes,Corporate (AED 399/mo),399,3990,High (AED 3-6K),79.4
+MM0489,2023-10-21,Bangladeshi,28,Consulting,Mid (3-5 yrs),Career Switch,Google Search,No,3,2,3.2,40.7,No,19,No,Individual (AED 199/mo),199,597,Low (<AED 1K),49.1
+MM0490,2023-08-04,South African,36,Human Resources,Mid (3-5 yrs),Career Switch,Word of Mouth,No,9,1,3.8,39.3,No,26,Yes,Individual (AED 199/mo),199,1791,Mid (AED 1-3K),40.9
+MM0491,2024-03-16,Pakistani,26,Operations,Mid (3-5 yrs),Skill Building,LinkedIn,Yes,14,1,4.3,59.7,Yes,4,No,Corporate (AED 399/mo),399,5586,High (AED 3-6K),51.1
+MM0492,2024-08-16,Egyptian,29,Finance,Senior (6-10 yrs),Skill Building,Word of Mouth,No,2,2,2.7,29.7,No,29,No,Individual (AED 199/mo),199,398,Low (<AED 1K),42.7
+MM0493,2024-09-13,Indian,28,Technology,Entry (0-2 yrs),Start a Business,Corporate HR,No,2,4,4.1,65.1,Yes,38,No,Individual (AED 199/mo),199,398,Low (<AED 1K),82.4
+MM0494,2023-11-26,Indian,33,Finance,Mid (3-5 yrs),Network Building,Corporate HR,Yes,6,2,3.1,37.2,No,13,No,Corporate (AED 399/mo),399,2394,Mid (AED 1-3K),47.3
+MM0495,2024-04-21,Pakistani,39,Real Estate,Entry (0-2 yrs),Start a Business,Word of Mouth,Yes,9,4,4.4,78.3,No,61,No,Corporate (AED 399/mo),399,3591,High (AED 3-6K),88.9
+MM0496,2024-03-28,Filipino,26,Operations,Senior (6-10 yrs),Skill Building,LinkedIn,Yes,7,2,3.1,65.2,Yes,11,Yes,Corporate (AED 399/mo),399,2793,Mid (AED 1-3K),58.5
+MM0497,2024-03-28,Egyptian,27,Marketing,Senior (6-10 yrs),Get Promoted,Instagram,Yes,11,1,4.3,43.6,No,23,No,Corporate (AED 399/mo),399,4389,High (AED 3-6K),44.6
+MM0498,2023-08-07,Indian,33,Human Resources,Mid (3-5 yrs),Career Switch,Google Search,No,2,3,4.6,51.7,Yes,41,No,Individual (AED 199/mo),199,398,Low (<AED 1K),69.1
+MM0499,2024-06-07,Bangladeshi,31,Marketing,Mid (3-5 yrs),Network Building,Word of Mouth,No,3,2,4.4,61.6,No,28,Yes,Individual (AED 199/mo),199,597,Low (<AED 1K),62.2
+MM0500,2024-04-29,Bangladeshi,36,Consulting,Entry (0-2 yrs),Skill Building,Word of Mouth,No,3,3,4.0,63.2,No,4,No,Individual (AED 199/mo),199,597,Low (<AED 1K),71.3
+MM0364,2023-04-05,British,23,Marketing,Mid (3-5 yrs),Get Promoted,LinkedIn,No,1,1,3.4,37.7,Yes,7,Yes,Individual (AED 199/mo),199,199,Low (<AED 1K),38.7
+MM0287,2023-06-11,Pakistani,27,Marketing,Mid (3-5 yrs),Skill Building,Word of Mouth,No,2,2,4.4,53.4,No,55,No,Individual (AED 199/mo),199,398,Low (<AED 1K),59.0
+MM0136,2024-03-21,Filipino,31,Marketing,Senior (6-10 yrs),Career Switch,LinkedIn,No,16,3,4.5,66.5,No,28,Yes,Individual (AED 199/mo),199,3184,High (AED 3-6K),74.6
+MM0499,2024-06-07,Bangladeshi,31,Marketing,Mid (3-5 yrs),Network Building,Word of Mouth,No,3,2,4.4,61.6,No,35,Yes,Individual (AED 199/mo),199,597,Low (<AED 1K),62.2
+MM0175,2023-06-19,Egyptian,30,Finance,Mid (3-5 yrs),Get Promoted,LinkedIn,No,3,2,4.1,71.0,No,8,No,Individual (AED 199/mo),199,597,Low (<AED 1K),64.8
+MM0116,2023-04-23,South African,36,Marketing,Mid (3-5 yrs),Get Promoted,LinkedIn,No,4,2,2.7,29.8,No,28,No,Individual (AED 199/mo),199,796,Low (<AED 1K),42.7
+MM0183,2023-11-16,Nigerian,22,Finance,Entry (0-2 yrs),Network Building,Corporate HR,No,15,4,4.0,61.1,No,47,No,Individual (AED 199/mo),199,2985,Mid (AED 1-3K),80.4
+MM0194,2023-01-22,Egyptian,33,Consulting,Entry (0-2 yrs),Get Promoted,LinkedIn,No,5,1,3.9,54.1,Yes,28,No,Individual (AED 199/mo),199,995,Low (<AED 1K),47.2
